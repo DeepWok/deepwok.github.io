@@ -2,10 +2,10 @@
 
 <center>
 
-![alt text](deepwok2.png)
+![alt text](./deepwok2.png)
 </center>
 
-The DeepWok Lab, is the research group led by [Dr. Aaron Zhao](https://aaronzhao.me/), where the group members are mainly from Imperial College London and the University of Cambridge.
+The DeepWok Lab, is an ML research group led by [Dr. Aaron Zhao](https://aaronzhao.me/), where the group members are mainly from Imperial College London and the University of Cambridge.
 
 
 ## Members
