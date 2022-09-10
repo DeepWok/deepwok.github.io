@@ -21,6 +21,7 @@ Each year, we run and supervise a number of students for their undergraduate and
 
 * [Thomas Yuan](https://hk.linkedin.com/in/thomasyuan1) (Part II project, University of Cambridge)
 * [Kyra Zhou](https://uk.linkedin.com/in/kyra-zhou) (Part II project, University of Cambridge)
+
 ### Academic Year 2022
 * [Tim Clifford](https://tim.clifford.lol/) (Summer Research Intern, from University of Cambridge)
 * [Joseph Rance](https://www.cst.cam.ac.uk/people/jr879) (Summer Research Intern, from University of Cambridge)
