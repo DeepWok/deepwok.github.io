@@ -10,7 +10,9 @@ The DeepWok Lab, is an ML research group led by [Dr. Aaron Zhao](https://aaronzh
 
 ## Members
 
-* [Yiren (Aaron) Zhao (Primary Investigator)](https://aaronzhao.me/)
+* [Yiren (Aaron) Zhao (Principle Investigator)](https://aaronzhao.me/)
+
+
 
 ---
 ## Student Projects
