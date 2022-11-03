@@ -20,6 +20,12 @@ Each year, we run and supervise a number of students for their undergraduate and
 
 ### Academic Year 2023
 
+* [Pedro Gimense](https://www.pedrogimenes.co.uk/) (Final Year Project, Imperial College London)
+* Nickolaos Ilioudis (Final Year Project, Imperial College London)
+* [Issa Bqain](https://issabqain.com/) (Final Year Project, Imperial College London)
+* [Tobias Cook](https://www.linkedin.com/in/tobias-cook-542b10250/) (Final Year Project, Imperial College London)
+* [Peter Barabas](https://www.linkedin.com/in/peter-barabas-195395230/?trk=people-guest_people_search-card&originalSubdomain=uk) (Final Year Project, Imperial College London)
+* [Ritvik Shyam](https://ritvikshyam19.wixsite.com/ritvik-shyam)(Final Year Project, Imperial College London)
 * [Harry Knighton](https://www.linkedin.com/in/harry-knighton-971452223/?originalSubdomain=uk) (Part II project, University of Cambridge)
 * [Fredrik Ekholm](https://www.linkedin.com/in/fredrik-ekholm-503711146/?originalSubdomain=se) (Part II project, University of Cambridge)
 * [Thomas Yuan](https://hk.linkedin.com/in/thomasyuan1) (Part II project, University of Cambridge)
@@ -52,7 +58,7 @@ ICBINB @ NeurIPS 2022
 
 Rapid Model Architecture Adaption for Meta-Learning;
 Y Zhao, X Gao, I Shumailov, N Fusi, R Mullins;
-Advances in Neural Information Processing Systems 35 (NeurIPS)
+Advances in Neural Information Processing Systems 35 (NeurIPS 2022)
 
 DAdaQuant: Doubly-adaptive quantization for communication-efficient Federated Learning;
 R Hönig, Y Zhao, R Mullins;
