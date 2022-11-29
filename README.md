@@ -48,13 +48,15 @@ Each year, we run and supervise a number of students for their undergraduate and
 
 ### Year 2022
 
+Revisiting Embeddings for Graph Neural Networks; S Purchase, Y Zhao, R Mullins; The First Learning on Graphs Conference (LOG 2022)
+
 Wide Attention Is The Way Forward For Transformers;
 J R Brown, Y Zhao, I Shumailov, R Mullins;
-All Things Attention: Bridging Different Perspectives on Attention @ NeurIPS 2022
+All Things Attention: Bridging Different Perspectives on Attention, Oral, NeurIPS 2022 Workshop
 
 DARTFormer: Finding The Best Type Of Attention;
 J R Brown, Y Zhao, I Shumailov, R Mullins;
-ICBINB @ NeurIPS 2022
+ICBINB,  NeurIPS 2022 Workshop
 
 Rapid Model Architecture Adaption for Meta-Learning;
 Y Zhao, X Gao, I Shumailov, N Fusi, R Mullins;
@@ -62,4 +64,4 @@ Advances in Neural Information Processing Systems 35 (NeurIPS 2022)
 
 DAdaQuant: Doubly-adaptive quantization for communication-efficient Federated Learning;
 R Hönig, Y Zhao, R Mullins;
-International Conference on Machine Learning (ICML)
+International Conference on Machine Learning (ICML 2022)
