@@ -10,16 +10,31 @@ The DeepWok Lab, is an ML research group led by [Dr. Aaron Zhao](https://aaronzh
 
 ## Members
 
-* [Yiren (Aaron) Zhao (Principle Investigator)](https://aaronzhao.me/)
-* Cheng Zhang (Visiting student)
+* [Aaron Zhao](https://aaronzhao.me/)  (Principle Investigator)
+* [Cheng Zhang](https://www.linkedin.com/in/cheng-zhang-2aa1061a1/?originalSubdomain=cn) (PhD Student)
+* [Victor Zhao](https://victorzxy.github.io/) (PhD Student)
 
 ---
 ## Student Projects
 
 Each year, we run and supervise a number of students for their undergraduate and master projects at Imperial College London and the University of Cambridge. We also run a great number of summer research internships.
 
-### Academic Year 2023
+### Project proposals
 
+This is an incomplete list of possible projects for summer/PartII/PartIII/Mphil/MSc/FYP students:
+
+* [Wide Vision Transformers](https://www.notion.so/Wide-Vision-Transformers-eb3d0d5a072144ec9538112a25ad31b3)
+* [Transformer Quantization Framework](https://www.notion.so/Transformer-Quantization-Framework-cb3530272681413fa403d07064b03c32)
+* [Neural weather modeling using Graph Representational Learning](https://pie-ear-389.notion.site/Neural-weather-modeling-using-Graph-Representational-Learning-79ff11d0fe664b77818920ecbf967d15)
+* [Feature-level Augmentation](https://www.notion.so/Feature-level-Augmentation-8609e4d1cd7149f496121ab498eb4a86)
+* [Low precision Vision Transformers](https://pie-ear-389.notion.site/Low-precision-Vision-Transformers-f8257f92d3ea4d549e2a5fbdf497f4f4)
+* [Model backdoors in Multi-Agent RL](https://pie-ear-389.notion.site/Model-backdoors-in-Multi-Agent-RL-20eb3e95b4d2476a83703565689a6d13)
+
+### Academic Year 2022/2023
+
+* Can Xiao (MSc Project, Imperial College London)
+* Sheng Luo (MSc Project, Imperial College London)
+* Chuiyu Wang (MSc Project, Imperial College London)
 * [Pedro Gimense](https://www.pedrogimenes.co.uk/) (Final Year Project, Imperial College London)
 * Nickolaos Ilioudis (Final Year Project, Imperial College London)
 * [Issa Bqain](https://issabqain.com/) (Final Year Project, Imperial College London)
@@ -31,7 +46,7 @@ Each year, we run and supervise a number of students for their undergraduate and
 * [Thomas Yuan](https://hk.linkedin.com/in/thomasyuan1) (Part II project, University of Cambridge)
 * [Kyra Zhou](https://uk.linkedin.com/in/kyra-zhou) (Part II project, University of Cambridge)
 
-### Academic Year 2022
+### Academic Year 2021/2022
 
 * [Tim Clifford](https://tim.clifford.lol/) (Summer Research Intern, from University of Cambridge)
 * [Joseph Rance](https://www.cst.cam.ac.uk/people/jr879) (Summer Research Intern, from University of Cambridge)
