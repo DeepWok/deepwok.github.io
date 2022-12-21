@@ -11,8 +11,9 @@ The DeepWok Lab, is an ML research group led by [Dr. Aaron Zhao](https://aaronzh
 ## Members
 
 * [Aaron Zhao](https://aaronzhao.me/)  (Principle Investigator)
-* [Cheng Zhang](https://www.linkedin.com/in/cheng-zhang-2aa1061a1/?originalSubdomain=cn) (PhD Student)
-* [Victor Zhao](https://victorzxy.github.io/) (PhD Student)
+* [Cheng Zhang](https://www.linkedin.com/in/cheng-zhang-2aa1061a1/?originalSubdomain=cn) (PhD Student, co-supervised with [Prof. George Constantinides](https://cas.ee.ic.ac.uk/people/gac1/))
+* [Victor Zhao](https://victorzxy.github.io/) (PhD Student, co-supervised with [Prof. Pietro Lio](https://www.cl.cam.ac.uk/~pl219/))
+* [Zehui Li](https://healthtechweb.com/) (PhD Student, co-supervised with [Prof. Guy-Bart Stan](https://gstan.bg-research.cc.ic.ac.uk/welcome.html#Group_members))
 
 ---
 ## Student Projects
@@ -29,6 +30,8 @@ This is an incomplete list of possible projects for summer/PartII/PartIII/Mphil/
 * [Feature-level Augmentation](https://www.notion.so/Feature-level-Augmentation-8609e4d1cd7149f496121ab498eb4a86)
 * [Low precision Vision Transformers](https://pie-ear-389.notion.site/Low-precision-Vision-Transformers-f8257f92d3ea4d549e2a5fbdf497f4f4)
 * [Model backdoors in Multi-Agent RL](https://pie-ear-389.notion.site/Model-backdoors-in-Multi-Agent-RL-20eb3e95b4d2476a83703565689a6d13)
+
+I am also happy to host self-proposed projects if it matches the Lab's research interests. Feel free to contact a.zhao@imperial.ac.uk if you would like to do a project with us!
 
 ### Academic Year 2022/2023
 
