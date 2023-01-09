@@ -24,12 +24,16 @@ Each year, we run and supervise a number of students for their undergraduate and
 
 This is an incomplete list of possible projects for summer/PartII/PartIII/Mphil/MSc/FYP students:
 
-* [Wide Vision Transformers](https://www.notion.so/Wide-Vision-Transformers-eb3d0d5a072144ec9538112a25ad31b3)
+* [Wide Vision Transformers](https://pie-ear-389.notion.site/Wide-Vision-Transformers-477d606ba68a4097856cdcd59f0e4391)
+* [Knowledge Distillation for Vision Transformers](https://pie-ear-389.notion.site/Knowledge-Distillation-for-Vision-Transformers-eb3d0d5a072144ec9538112a25ad31b3)
+* [Sparse training with dynamic lottery ticket](https://pie-ear-389.notion.site/Sparse-training-with-dynamic-lottery-ticket-0a5139b599bc42269e406be205ac76b6)
 * [Transformer Quantization Framework](https://www.notion.so/Transformer-Quantization-Framework-cb3530272681413fa403d07064b03c32)
 * [Neural weather modeling using Graph Representational Learning](https://pie-ear-389.notion.site/Neural-weather-modeling-using-Graph-Representational-Learning-79ff11d0fe664b77818920ecbf967d15)
 * [Feature-level Augmentation](https://www.notion.so/Feature-level-Augmentation-8609e4d1cd7149f496121ab498eb4a86)
 * [Low precision Vision Transformers](https://pie-ear-389.notion.site/Low-precision-Vision-Transformers-f8257f92d3ea4d549e2a5fbdf497f4f4)
 * [Model backdoors in Multi-Agent RL](https://pie-ear-389.notion.site/Model-backdoors-in-Multi-Agent-RL-20eb3e95b4d2476a83703565689a6d13)
+* [Training with dynamic lottery ticket](https://pie-ear-389.notion.site/Training-with-dynamic-lottery-ticket-7b5177c55b674dde908211a3614dad52)
+* [Efficient Self-supervised Learning](https://pie-ear-389.notion.site/Efficient-Self-supervised-Learning-77ee286a7d264a74972ab31e7ccef116)
 
 I am also happy to host self-proposed projects if it matches the Lab's research interests. Feel free to contact a.zhao@imperial.ac.uk if you would like to do a project with us!
 
