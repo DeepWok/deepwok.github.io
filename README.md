@@ -8,7 +8,7 @@ The DeepWok Lab, is an ML research group led by [Dr. Aaron Zhao](https://aaronzh
 
 
 
-## Members
+# Members
 
 * [Aaron Zhao](https://aaronzhao.me/)  (Principle Investigator)
 * [Cheng Zhang](https://www.linkedin.com/in/cheng-zhang-2aa1061a1/?originalSubdomain=cn) (PhD Student, co-supervised with [Prof. George Constantinides](https://cas.ee.ic.ac.uk/people/gac1/))
@@ -16,14 +16,14 @@ The DeepWok Lab, is an ML research group led by [Dr. Aaron Zhao](https://aaronzh
 * [Zehui Li](https://healthtechweb.com/) (PhD Student, co-supervised with [Prof. Guy-Bart Stan](https://gstan.bg-research.cc.ic.ac.uk/welcome.html#Group_members))
 
 ---
-## Student Projects
+# Student Projects
 
 Each year, we run and supervise a number of students for their undergraduate and master projects at Imperial College London and the University of Cambridge. We also run a great number of summer research internships.
 
+## Project Proposals
+
 This is an incomplete list of possible projects for summer/PartII/PartIII/Mphil/MSc/FYP students [last update: 26th Jan].
-
 Some of the links may lead to empty Notion pages; these projects do exist, it's just taking some time to complete the documents.
-
 If you are interested, please email me with your transcript and CV, and the following is the list of our project proposals:
 
 * [Tentatively Taken] ~~[Sparse training with dynamic lottery ticket](https://pie-ear-389.notion.site/Sparse-training-with-dynamic-lottery-ticket-0a5139b599bc42269e406be205ac76b6)~~
@@ -45,6 +45,8 @@ If you are interested, please email me with your transcript and CV, and the foll
 * [Tricking GPT3 using prompt chaining](https://pie-ear-389.notion.site/Tricking-GPT3-using-chaining-1de895a0d5ce4e07882b9faf0a2e183b)
 
 I am also happy to host self-proposed projects if it matches the Lab's research interests. Feel free to contact a.zhao@imperial.ac.uk if you would like to do a project with us!
+
+## Past Students
 
 ### Academic Year 2022/2023
 
@@ -75,9 +77,9 @@ I am also happy to host self-proposed projects if it matches the Lab's research 
 
 ---
 
-## Publication 
+# Publication
 
-### Year 2022
+## Year 2022
 
 Revisiting Embeddings for Graph Neural Networks; S Purchase, Y Zhao, R Mullins; The First Learning on Graphs Conference (LOG 2022)
 
