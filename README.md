@@ -44,7 +44,7 @@ If you are interested, please email me with your transcript and CV, and the foll
 
 I am also happy to host self-proposed projects if it matches the Lab's research interests. Feel free to contact a.zhao@imperial.ac.uk if you would like to do a project with us!
 
-## Past Students
+## Past and Current Students
 
 ### Academic Year 2022/2023
 
