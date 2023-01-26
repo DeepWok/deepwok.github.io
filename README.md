@@ -27,6 +27,7 @@ Some of the links may lead to empty Notion pages; these projects do exist, it's 
 If you are interested, please email me with your transcript and CV, and the following is the list of our project proposals:
 
 * [Tentatively Taken] ~~[Sparse training with dynamic lottery ticket](https://pie-ear-389.notion.site/Sparse-training-with-dynamic-lottery-ticket-0a5139b599bc42269e406be205ac76b6)~~
+
 * [Wide Vision Transformers](https://pie-ear-389.notion.site/Wide-Vision-Transformers-477d606ba68a4097856cdcd59f0e4391)
 * [Knowledge Distillation for Vision Transformers](https://pie-ear-389.notion.site/Knowledge-Distillation-for-Vision-Transformers-eb3d0d5a072144ec9538112a25ad31b3)
 * [Transformer Quantization Framework](https://www.notion.so/Transformer-Quantization-Framework-cb3530272681413fa403d07064b03c32)
