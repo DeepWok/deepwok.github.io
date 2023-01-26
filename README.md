@@ -20,13 +20,11 @@ The DeepWok Lab, is an ML research group led by [Dr. Aaron Zhao](https://aaronzh
 
 Each year, we run and supervise a number of students for their undergraduate and master projects at Imperial College London and the University of Cambridge. We also run a great number of summer research internships.
 
-### Project proposals
-
 This is an incomplete list of possible projects for summer/PartII/PartIII/Mphil/MSc/FYP students [last update: 26th Jan].
 
 Some of the links may lead to empty Notion pages; these projects do exist, it's just taking some time to complete the documents.
 
-If you are interested, please email me with your transcript and CV.
+If you are interested, please email me with your transcript and CV, and the following is the list of our project proposals:
 
 * [Tentatively Taken] ~~[Sparse training with dynamic lottery ticket](https://pie-ear-389.notion.site/Sparse-training-with-dynamic-lottery-ticket-0a5139b599bc42269e406be205ac76b6)~~
 * [Wide Vision Transformers](https://pie-ear-389.notion.site/Wide-Vision-Transformers-477d606ba68a4097856cdcd59f0e4391)
