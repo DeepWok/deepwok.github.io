@@ -27,7 +27,8 @@ Some of the links may lead to empty Notion pages; these projects do exist, it's 
 If you are interested, please email me with your transcript and CV, and the following is the list of our project proposals:
 
 * Note: For Imperial UROP candidates (does not apply to Cambridge UROP since those were naturally co-hosted), I am running out of capacity to accommodate UROP supervision, so now I only offer summer projects that are co-supervised:
-	- I now only offer ~2 positions for the **Constrained Hardware Accelerator Design for Machine Learning** project.
+	- ~2 positions for **Constrained Hardware Accelerator Design for Machine Learning**
+  * ~1 position for applying **Stable and Diverse DNA sequence design using Diffusion Models**
 
 
 * *Tentatively Taken* ~~[Sparse training with dynamic lottery ticket](https://pie-ear-389.notion.site/Sparse-training-with-dynamic-lottery-ticket-0a5139b599bc42269e406be205ac76b6)~~
@@ -37,6 +38,7 @@ If you are interested, please email me with your transcript and CV, and the foll
 * [Low precision Vision Transformers](https://pie-ear-389.notion.site/Low-precision-Vision-Transformers-f8257f92d3ea4d549e2a5fbdf497f4f4)
 * [Efficient Self-supervised Learning](https://pie-ear-389.notion.site/Efficient-Self-supervised-Learning-77ee286a7d264a74972ab31e7ccef116)
 * *High priority* [Constrained Hardware Accelerator Design for Machine Learning](https://jianyisphd.notion.site/Constrained-Hardware-Accelerator-Design-for-Machine-Learning-5d9b64ec031d4368bb5fef24abb14630) (Co-supervised with [Jianyi Cheng](https://jianyicheng.github.io/))
+* *High priority* [Stable and Diverse DNA sequence design using Diffusion Models](https://www.notion.so/Stable-and-Diverse-DNA-sequence-design-using-Diffusion-Models-49717add86354b238678647da942b6af)
 * [Boosting Model Compression with Unlabelled Data](https://pie-ear-389.notion.site/Model-Compression-with-unlabelled-data-64a44c8225c34022a36f829e871f96af)
 * *High priority* [Neural weather modeling using Graph Representational Learning](https://pie-ear-389.notion.site/Neural-weather-modeling-using-Graph-Representational-Learning-79ff11d0fe664b77818920ecbf967d15)
 * [Continuing the Art of Prompting in the Vision Land](https://pie-ear-389.notion.site/Continuing-the-Art-of-Prompting-in-the-Vision-Land-74186f9ece5c48e1939affe78bbf1b14)
