@@ -34,7 +34,7 @@ If you are interested, please email me with your transcript and CV, and the foll
 * *Taken* ~~[Efficient Self-supervised Learning](https://pie-ear-389.notion.site/Efficient-Self-supervised-Learning-77ee286a7d264a74972ab31e7ccef116)~~
 * *Tentatively Taken* ~~[Sparse training with dynamic lottery ticket](https://pie-ear-389.notion.site/Sparse-training-with-dynamic-lottery-ticket-0a5139b599bc42269e406be205ac76b6)~~
 * *Tentatively Taken* ~~[Wide Vision Transformers](https://pie-ear-389.notion.site/Wide-Vision-Transformers-477d606ba68a4097856cdcd59f0e4391)~~
-* [Knowledge Distillation for Vision Transformers](https://pie-ear-389.notion.site/Knowledge-Distillation-for-Vision-Transformers-eb3d0d5a072144ec9538112a25ad31b3)
+* *Tentatively Taken* ~~[Knowledge Distillation for Vision Transformers](https://pie-ear-389.notion.site/Knowledge-Distillation-for-Vision-Transformers-eb3d0d5a072144ec9538112a25ad31b3)~~
 * [Transformer Quantization Framework](https://www.notion.so/Transformer-Quantization-Framework-cb3530272681413fa403d07064b03c32)
 * [Low precision Vision Transformers](https://pie-ear-389.notion.site/Low-precision-Vision-Transformers-f8257f92d3ea4d549e2a5fbdf497f4f4)
 * *High priority* [Constrained Hardware Accelerator Design for Machine Learning](https://pie-ear-389.notion.site/Stable-and-Diverse-DNA-sequence-design-using-Diffusion-Models-49717add86354b238678647da942b6af) (Co-supervised with [Jianyi Cheng](https://jianyicheng.github.io/))
