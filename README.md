@@ -31,13 +31,13 @@ If you are interested, please email me with your transcript and CV, and the foll
   * ~1 position for applying **Stable and Diverse DNA sequence design using Diffusion Models**
 
 
+* *Taken* ~~[Efficient Self-supervised Learning](https://pie-ear-389.notion.site/Efficient-Self-supervised-Learning-77ee286a7d264a74972ab31e7ccef116)~~
 * *Tentatively Taken* ~~[Sparse training with dynamic lottery ticket](https://pie-ear-389.notion.site/Sparse-training-with-dynamic-lottery-ticket-0a5139b599bc42269e406be205ac76b6)~~
 * *Tentatively Taken* ~~[Wide Vision Transformers](https://pie-ear-389.notion.site/Wide-Vision-Transformers-477d606ba68a4097856cdcd59f0e4391)~~
 * [Knowledge Distillation for Vision Transformers](https://pie-ear-389.notion.site/Knowledge-Distillation-for-Vision-Transformers-eb3d0d5a072144ec9538112a25ad31b3)
 * [Transformer Quantization Framework](https://www.notion.so/Transformer-Quantization-Framework-cb3530272681413fa403d07064b03c32)
 * [Low precision Vision Transformers](https://pie-ear-389.notion.site/Low-precision-Vision-Transformers-f8257f92d3ea4d549e2a5fbdf497f4f4)
-* [Efficient Self-supervised Learning](https://pie-ear-389.notion.site/Efficient-Self-supervised-Learning-77ee286a7d264a74972ab31e7ccef116)
-* *High priority* [Constrained Hardware Accelerator Design for Machine Learning](https://jianyisphd.notion.site/Constrained-Hardware-Accelerator-Design-for-Machine-Learning-5d9b64ec031d4368bb5fef24abb14630) (Co-supervised with [Jianyi Cheng](https://jianyicheng.github.io/))
+* *High priority* [Constrained Hardware Accelerator Design for Machine Learning](https://pie-ear-389.notion.site/Stable-and-Diverse-DNA-sequence-design-using-Diffusion-Models-49717add86354b238678647da942b6af) (Co-supervised with [Jianyi Cheng](https://jianyicheng.github.io/))
 * *High priority* [Stable and Diverse DNA sequence design using Diffusion Models](https://www.notion.so/Stable-and-Diverse-DNA-sequence-design-using-Diffusion-Models-49717add86354b238678647da942b6af) (Co-supervised with [Prof. Guy-Bart Stan](https://www.imperial.ac.uk/people/g.stan)'s team as part of the AI4EB program)
 * [Boosting Model Compression with Unlabelled Data](https://pie-ear-389.notion.site/Model-Compression-with-unlabelled-data-64a44c8225c34022a36f829e871f96af)
 * *High priority* [Neural weather modeling using Graph Representational Learning](https://pie-ear-389.notion.site/Neural-weather-modeling-using-Graph-Representational-Learning-79ff11d0fe664b77818920ecbf967d15)
