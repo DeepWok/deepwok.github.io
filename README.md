@@ -41,7 +41,7 @@ If you are interested, please email me with your transcript and CV, and the foll
 * *High priority* [Stable and Diverse DNA sequence design using Diffusion Models](https://www.notion.so/Stable-and-Diverse-DNA-sequence-design-using-Diffusion-Models-49717add86354b238678647da942b6af) (Co-supervised with [Prof. Guy-Bart Stan](https://www.imperial.ac.uk/people/g.stan)'s team as part of the AI4EB program)
 * [Boosting Model Compression with Unlabelled Data](https://pie-ear-389.notion.site/Model-Compression-with-unlabelled-data-64a44c8225c34022a36f829e871f96af)
 * *High priority* [Neural weather modeling using Graph Representational Learning](https://pie-ear-389.notion.site/Neural-weather-modeling-using-Graph-Representational-Learning-79ff11d0fe664b77818920ecbf967d15)
-* [Continuing the Art of Prompting in the Vision Land](https://pie-ear-389.notion.site/Continuing-the-Art-of-Prompting-in-the-Vision-Land-74186f9ece5c48e1939affe78bbf1b14)
+* [Continuing the Art of Prompting in the Vision Land](https://jianyisphd.notion.site/Constrained-Hardware-Accelerator-Design-for-Machine-Learning-5d9b64ec031d4368bb5fef24abb14630)
 * [Feature-level Augmentation](https://www.notion.so/Feature-level-Augmentation-8609e4d1cd7149f496121ab498eb4a86)
 * [Dataflow Federated Learning](https://pie-ear-389.notion.site/Dataflow-learning-for-distributed-systems-d5933bf9f27245958de6967d33a410d3)
 * [Model backdoors in Multi-Agent RL](https://pie-ear-389.notion.site/Model-backdoors-in-Multi-Agent-RL-20eb3e95b4d2476a83703565689a6d13)
