@@ -35,6 +35,7 @@ If you are interested, please email me with your transcript and CV, and the foll
 * *Tentatively Taken* ~~[Sparse training with dynamic lottery ticket](https://pie-ear-389.notion.site/Sparse-training-with-dynamic-lottery-ticket-0a5139b599bc42269e406be205ac76b6)~~
 * *Tentatively Taken* ~~[Wide Vision Transformers](https://pie-ear-389.notion.site/Wide-Vision-Transformers-477d606ba68a4097856cdcd59f0e4391)~~
 * *Tentatively Taken* ~~[Knowledge Distillation for Vision Transformers](https://pie-ear-389.notion.site/Knowledge-Distillation-for-Vision-Transformers-eb3d0d5a072144ec9538112a25ad31b3)~~
+* *Tentatively Taken* ~~[Model backdoors in Multi-Agent RL](https://pie-ear-389.notion.site/Model-backdoors-in-Multi-Agent-RL-20eb3e95b4d2476a83703565689a6d13)~~
 * [Transformer Quantization Framework](https://www.notion.so/Transformer-Quantization-Framework-cb3530272681413fa403d07064b03c32)
 * [Low precision Vision Transformers](https://pie-ear-389.notion.site/Low-precision-Vision-Transformers-f8257f92d3ea4d549e2a5fbdf497f4f4)
 * *High priority* [Constrained Hardware Accelerator Design for Machine Learning](https://jianyisphd.notion.site/Constrained-Hardware-Accelerator-Design-for-Machine-Learning-5d9b64ec031d4368bb5fef24abb14630) (Co-supervised with [Jianyi Cheng](https://jianyicheng.github.io/))
@@ -44,7 +45,6 @@ If you are interested, please email me with your transcript and CV, and the foll
 * [Continuing the Art of Prompting in the Vision Land](https://pie-ear-389.notion.site/Continuing-the-Art-of-Prompting-in-the-Vision-Land-74186f9ece5c48e1939affe78bbf1b14)
 * [Feature-level Augmentation](https://www.notion.so/Feature-level-Augmentation-8609e4d1cd7149f496121ab498eb4a86)
 * [Dataflow Federated Learning](https://pie-ear-389.notion.site/Dataflow-learning-for-distributed-systems-d5933bf9f27245958de6967d33a410d3)
-* [Model backdoors in Multi-Agent RL](https://pie-ear-389.notion.site/Model-backdoors-in-Multi-Agent-RL-20eb3e95b4d2476a83703565689a6d13)
 * [Tricking GPT3 using prompt chaining](https://pie-ear-389.notion.site/Tricking-GPT3-using-chaining-1de895a0d5ce4e07882b9faf0a2e183b)
 
 I am also happy to host self-proposed projects if it matches the Lab's research interests. Feel free to contact a.zhao@imperial.ac.uk if you would like to do a project with us!
