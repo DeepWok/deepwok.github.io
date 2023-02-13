@@ -46,6 +46,8 @@ If you are interested, please email me with your transcript and CV, and the foll
 * [Feature-level Augmentation](https://www.notion.so/Feature-level-Augmentation-8609e4d1cd7149f496121ab498eb4a86)
 * [Dataflow Federated Learning](https://pie-ear-389.notion.site/Dataflow-learning-for-distributed-systems-d5933bf9f27245958de6967d33a410d3)
 * [Tricking GPT3 using prompt chaining](https://pie-ear-389.notion.site/Tricking-GPT3-using-chaining-1de895a0d5ce4e07882b9faf0a2e183b)
+* [# GNN Expressiveness and Graph Generative Models](https://walnut-seeker-d3e.notion.site/GNN-Expressiveness-and-Graph-Generative-Models-e4d0f801c78b4f48a3be9693d01b02cb)
+
 
 I am also happy to host self-proposed projects if it matches the Lab's research interests. Feel free to contact a.zhao@imperial.ac.uk if you would like to do a project with us!
 
