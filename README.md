@@ -85,7 +85,17 @@ I am also happy to host self-proposed projects if it matches the Lab's research 
 
 ## Year 2022
 
-Revisiting Embeddings for Graph Neural Networks; S Purchase, Y Zhao, R Mullins; The First Learning on Graphs Conference (LOG 2022)
+Adaptive Channel Sparsity for Federated Learning under System Heterogeneity;
+X Gao, D Liao, Y Zhao, C Xu; The IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR 2023)
+
+Architectural Backdoors in Neural Networks;
+M Bober-Irizar, I Shumailov, Y Zhao, R Mullins, N Papernot; The IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR 2023)
+
+
+## Year 2022
+
+Revisiting Embeddings for Graph Neural Networks; 
+S Purchase, Y Zhao, R Mullins; The First Learning on Graphs Conference (LOG 2022)
 
 Wide Attention Is The Way Forward For Transformers;
 J R Brown, Y Zhao, I Shumailov, R Mullins;
