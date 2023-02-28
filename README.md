@@ -83,7 +83,7 @@ I am also happy to host self-proposed projects if it matches the Lab's research 
 
 # Publication
 
-## Year 2022
+## Year 2023
 
 Adaptive Channel Sparsity for Federated Learning under System Heterogeneity;
 X Gao, D Liao, Y Zhao, C Xu; The IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR 2023)
@@ -94,16 +94,16 @@ M Bober-Irizar, I Shumailov, Y Zhao, R Mullins, N Papernot; The IEEE / CVF Compu
 
 ## Year 2022
 
-Revisiting Embeddings for Graph Neural Networks; 
+Revisiting Embeddings for Graph Neural Networks;
 S Purchase, Y Zhao, R Mullins; The First Learning on Graphs Conference (LOG 2022)
 
 Wide Attention Is The Way Forward For Transformers;
 J R Brown, Y Zhao, I Shumailov, R Mullins;
-All Things Attention: Bridging Different Perspectives on Attention, Oral, NeurIPS 2022 Workshop
+All Things Attention: Bridging Different Perspectives on Attention, Oral, (NeurIPS 2022 Workshop)
 
 DARTFormer: Finding The Best Type Of Attention;
 J R Brown, Y Zhao, I Shumailov, R Mullins;
-ICBINB,  NeurIPS 2022 Workshop
+ICBINB,  (NeurIPS 2022 Workshop)
 
 Rapid Model Architecture Adaption for Meta-Learning;
 Y Zhao, X Gao, I Shumailov, N Fusi, R Mullins;
