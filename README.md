@@ -85,6 +85,8 @@ I am also happy to host self-proposed projects if it matches the Lab's research 
 # Publication
 
 ## Year 2023
+Augmentation Backdoors;
+J Rance, Y Zhao, I Shumailov, R Mullins; ICLR 2023 Workshop on Backdoor Attacks and Defenses in Machine Learning (ICLR 2023 BANDS Workshop)
 
 Adaptive Channel Sparsity for Federated Learning under System Heterogeneity;
 X Gao, D Liao, Y Zhao, C Xu; The IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR 2023)
