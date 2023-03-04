@@ -54,7 +54,8 @@ I am also happy to host self-proposed projects if it matches the Lab's research 
 
 ### Academic Year 2022/2023
 
-* [Jacky Choi](https://www.linkedin.com/in/jacky-choi-12a23b228/?originalSubdomain=ch) (BEng Project, Imperial College London)
+* [Haoliang Shang](https://ch.linkedin.com/in/haoliang-shang-1544b1116) (BEng Project, Imperial College London / ETH Zurich)
+* [Jacky Choi](https://www.linkedin.com/in/jacky-choi-12a23b228/?originalSubdomain=ch) (BEng Project, Imperial College London / ETH Zurich)
 * Can Xiao (MSc Project, Imperial College London)
 * Sheng Luo (MSc Project, Imperial College London)
 * Chuiyu Wang (MSc Project, Imperial College London)
