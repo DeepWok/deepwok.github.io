@@ -1,6 +1,6 @@
 <center> <h1>Welcome to the DeepWok Lab</h1> </center>
 
-The DeepWok Lab, is an ML research group led by [Dr. Aaron Zhao](https://aaronzhao.me/), where the group members are mainly from Imperial College London and the University of Cambridge.
+The DeepWok Lab, is an ML research group led by [Dr. Aaron Zhao](https://aaron-zhao123.github.io/), where the group members are mainly from Imperial College London and the University of Cambridge.
 
 <center>
 <img src="{{site.baseurl}}/deepwok2.png">
@@ -10,7 +10,7 @@ The DeepWok Lab, is an ML research group led by [Dr. Aaron Zhao](https://aaronzh
 
 # Members
 
-* [Aaron Zhao](https://aaronzhao.me/)  (Principle Investigator)
+* [Aaron Zhao](https://aaron-zhao123.github.io/)  (Principle Investigator)
 * [Cheng Zhang](https://www.linkedin.com/in/cheng-zhang-2aa1061a1/?originalSubdomain=cn) (PhD Student, co-supervised with [Prof. George Constantinides](https://cas.ee.ic.ac.uk/people/gac1/))
 * [Victor Zhao](https://victorzxy.github.io/) (PhD Student, co-supervised with [Prof. Pietro Lio](https://www.cl.cam.ac.uk/~pl219/))
 * [Zehui Li](https://healthtechweb.com/) (PhD Student, co-supervised with [Prof. Guy-Bart Stan](https://gstan.bg-research.cc.ic.ac.uk/welcome.html#Group_members))
