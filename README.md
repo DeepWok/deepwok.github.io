@@ -86,6 +86,9 @@ I am also happy to host self-proposed projects if it matches the Lab's research 
 # Publication
 
 ## Year 2023
+Task-Agnostic Graph Neural Network Evaluation via Adversarial CollaborationX Zhao, H Stärk, D Beaini, P Liò, Y Zhao ICLR 2023 - Machine Learning for Drug Discovery workshop
+ (ICLR 2023 MLDD workshop)
+
 Augmentation Backdoors;
 J Rance, Y Zhao, I Shumailov, R Mullins; ICLR 2023 Workshop on Backdoor Attacks and Defenses in Machine Learning (ICLR 2023 BANDS Workshop)
 
