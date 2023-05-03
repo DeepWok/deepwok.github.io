@@ -87,6 +87,7 @@ I am also happy to host self-proposed projects if it matches the Lab's research 
 
 ## Year 2023
 Revisiting Automated Prompting: Are We Actually Doing Better?; Y Zhou, Y Zhao, I Shumailov, R Mullins, Y Gal; Association for Computational Linguistics 2023 (ACL 2023)
+
 Task-Agnostic Graph Neural Network Evaluation via Adversarial Collaboration; X Zhao, H Stärk, D Beaini, P Liò, Y Zhao; ICLR 2023 - Machine Learning for Drug Discovery workshop
  (ICLR 2023 MLDD workshop)
 
