@@ -27,25 +27,24 @@ Some of the links may lead to empty Notion pages; these projects do exist, it's 
 If you are interested, please email me with your transcript and CV, and the following is the list of our project proposals:
 
 * Note: For Imperial UROP candidates (does not apply to Cambridge UROP since those were naturally co-hosted), I am running out of capacity to accommodate UROP supervision, so now I only offer summer projects that are co-supervised:
-	- ~2 positions for **Constrained Hardware Accelerator Design for Machine Learning**
 
 
 * *Taken* ~~[Efficient Self-supervised Learning](https://pie-ear-389.notion.site/Efficient-Self-supervised-Learning-77ee286a7d264a74972ab31e7ccef116)~~
-* *Tentatively Taken* ~~[Sparse training with dynamic lottery ticket](https://pie-ear-389.notion.site/Sparse-training-with-dynamic-lottery-ticket-0a5139b599bc42269e406be205ac76b6)~~
-* *Tentatively Taken* ~~[Wide Vision Transformers](https://pie-ear-389.notion.site/Wide-Vision-Transformers-477d606ba68a4097856cdcd59f0e4391)~~
-* *Tentatively Taken* ~~[Knowledge Distillation for Vision Transformers](https://pie-ear-389.notion.site/Knowledge-Distillation-for-Vision-Transformers-eb3d0d5a072144ec9538112a25ad31b3)~~
-* *Tentatively Taken* ~~[Model backdoors in Multi-Agent RL](https://pie-ear-389.notion.site/Model-backdoors-in-Multi-Agent-RL-20eb3e95b4d2476a83703565689a6d13)~~
+* *Taken* ~~[Sparse training with dynamic lottery ticket](https://pie-ear-389.notion.site/Sparse-training-with-dynamic-lottery-ticket-0a5139b599bc42269e406be205ac76b6)~~
+* *Taken* ~~[Wide Vision Transformers](https://pie-ear-389.notion.site/Wide-Vision-Transformers-477d606ba68a4097856cdcd59f0e4391)~~
+* *Taken* ~~[Knowledge Distillation for Vision Transformers](https://pie-ear-389.notion.site/Knowledge-Distillation-for-Vision-Transformers-eb3d0d5a072144ec9538112a25ad31b3)~~
+* *Taken* ~~[Model backdoors in Multi-Agent RL](https://pie-ear-389.notion.site/Model-backdoors-in-Multi-Agent-RL-20eb3e95b4d2476a83703565689a6d13)~~
 * *Taken* ~~[Stable and Diverse DNA sequence design using Diffusion Models](https://www.notion.so/Stable-and-Diverse-DNA-sequence-design-using-Diffusion-Models-49717add86354b238678647da942b6af) (Co-supervised with [Prof. Guy-Bart Stan](https://www.imperial.ac.uk/people/g.stan)'s team as part of the AI4EB program)~~
-* [Transformer Quantization Framework](https://www.notion.so/Transformer-Quantization-Framework-cb3530272681413fa403d07064b03c32)
-* [Low precision Vision Transformers](https://pie-ear-389.notion.site/Low-precision-Vision-Transformers-f8257f92d3ea4d549e2a5fbdf497f4f4)
+* *Taken* ~~[Transformer Quantization Framework](https://www.notion.so/Transformer-Quantization-Framework-cb3530272681413fa403d07064b03c32)~~
+* *Taken* ~~[Low precision Vision Transformers](https://pie-ear-389.notion.site/Low-precision-Vision-Transformers-f8257f92d3ea4d549e2a5fbdf497f4f4)~~
+* *Taken* ~~[Neural weather modeling using Graph Representational Learning](https://pie-ear-389.notion.site/Neural-weather-modeling-using-Graph-Representational-Learning-79ff11d0fe664b77818920ecbf967d15)~~
+* *Taken* ~~[Continuing the Art of Prompting in the Vision Land](https://pie-ear-389.notion.site/Continuing-the-Art-of-Prompting-in-the-Vision-Land-74186f9ece5c48e1939affe78bbf1b14)~~
+* *Taken* ~~[Dataflow Federated Learning](https://pie-ear-389.notion.site/Dataflow-learning-for-distributed-systems-d5933bf9f27245958de6967d33a410d3)~~
+* *[Taken]* ~~[Tricking GPT3 using prompt chaining](https://pie-ear-389.notion.site/Tricking-GPT3-using-chaining-1de895a0d5ce4e07882b9faf0a2e183b)~~
+* *[Taken]* ~~[GNN Expressiveness and Graph Generative Models](https://walnut-seeker-d3e.notion.site/GNN-Expressiveness-and-Graph-Generative-Models-e4d0f801c78b4f48a3be9693d01b02cb)~~
 * *High priority* [Constrained Hardware Accelerator Design for Machine Learning](https://jianyisphd.notion.site/Constrained-Hardware-Accelerator-Design-for-Machine-Learning-5d9b64ec031d4368bb5fef24abb14630) (Co-supervised with [Jianyi Cheng](https://jianyicheng.github.io/))
-* [Boosting Model Compression with Unlabelled Data](https://pie-ear-389.notion.site/Model-Compression-with-unlabelled-data-64a44c8225c34022a36f829e871f96af)
-* *High priority* [Neural weather modeling using Graph Representational Learning](https://pie-ear-389.notion.site/Neural-weather-modeling-using-Graph-Representational-Learning-79ff11d0fe664b77818920ecbf967d15)
-* [Continuing the Art of Prompting in the Vision Land](https://pie-ear-389.notion.site/Continuing-the-Art-of-Prompting-in-the-Vision-Land-74186f9ece5c48e1939affe78bbf1b14)
 * [Feature-level Augmentation](https://www.notion.so/Feature-level-Augmentation-8609e4d1cd7149f496121ab498eb4a86)
-* [Dataflow Federated Learning](https://pie-ear-389.notion.site/Dataflow-learning-for-distributed-systems-d5933bf9f27245958de6967d33a410d3)
-* [Tricking GPT3 using prompt chaining](https://pie-ear-389.notion.site/Tricking-GPT3-using-chaining-1de895a0d5ce4e07882b9faf0a2e183b)
-* [GNN Expressiveness and Graph Generative Models](https://walnut-seeker-d3e.notion.site/GNN-Expressiveness-and-Graph-Generative-Models-e4d0f801c78b4f48a3be9693d01b02cb)
+* [Boosting Model Compression with Unlabelled Data](https://pie-ear-389.notion.site/Model-Compression-with-unlabelled-data-64a44c8225c34022a36f829e871f96af)
 
 
 I am also happy to host self-proposed projects if it matches the Lab's research interests. Feel free to contact a.zhao@imperial.ac.uk if you would like to do a project with us!
@@ -54,6 +53,18 @@ I am also happy to host self-proposed projects if it matches the Lab's research 
 
 ### Academic Year 2022/2023
 
+* [Junyi Wu](https://uk.linkedin.com/in/junyi-wu-a83133249) (Summer Research Intern, Imperial College London)
+* [Harry Ni](https://www.linkedin.com/in/yuhao-ni/) (Summer Research Intern, Imperial College London)
+* [Xiandong Zou](https://www.linkedin.com/in/xiandong-z-502a6a1b0/) (Summer Research Intern, Imperial College London)
+* [Anthony Bolton](https://www.linkedin.com/in/anthony-bolton-040883245/) (Summer Research Intern, Imperial College London)
+* [Aaron Thomas](https://www.linkedin.com/in/aaron-thomas-029a261b5/) (Summer Research Intern, Imperial College London)
+* [Sudarshan Sreeram](https://uk.linkedin.com/in/sudarshan-sreeram) (Summer Research Intern, Imperial College London)
+* [Diego Van Overberghe](https://www.linkedin.com/in/diegovano/) (Summer Research Intern, Imperial College London)
+* [Bryan Tan](https://uk.linkedin.com/in/bryan-tan-12a39a20b) (Summer Research Intern, Imperial College London)
+* [TszHang Wong](https://www.linkedin.com/in/tsz-hang-wong-b7206b247/) (Summer Research Intern, Imperial College London)
+* [Aman Vernekar](https://uk.linkedin.com/in/aman-vernekar) (Summer Research Intern, University of Cambridge)
+* [Eduard Burlacu](https://www.linkedin.com/in/eduard-burlacu-168860223/?originalSubdomain=uk) (Summer Research Intern, University of Cambridge)
+* [Harry Langford](https://www.cst.cam.ac.uk/people/hjel2) (Summer Research Intern, University of Cambridge)
 * [Haoliang Shang](https://ch.linkedin.com/in/haoliang-shang-1544b1116) (BEng Project, Imperial College London / ETH Zurich)
 * [Jacky Choi](https://www.linkedin.com/in/jacky-choi-12a23b228/?originalSubdomain=ch) (BEng Project, Imperial College London / ETH Zurich)
 * Can Xiao (MSc Project, Imperial College London)
@@ -86,6 +97,12 @@ I am also happy to host self-proposed projects if it matches the Lab's research 
 # Publication
 
 ## Year 2023
+
+Achieving Accurate and Explainable Drug Discovery with Zero-Cost Network Architecture Search; H Knighton, Y Zhao, D Buterez, P Lio; The 2023 ICML Workshop on Computational Biology (ICML-WCB 2023)
+
+
+Genomic Interpreter: A Hierarchical Genomic Deep Neural Network with 1D Shifted Window Transformer; Z Li, A Das, WAV Beardall, Y Zhao, GB Stan; The 2023 ICML Workshop on Computational Biology (ICML-WCB 2023)
+
 Revisiting Automated Prompting: Are We Actually Doing Better?; Y Zhou, Y Zhao, I Shumailov, R Mullins, Y Gal; Association for Computational Linguistics 2023 (ACL 2023)
 
 Task-Agnostic Graph Neural Network Evaluation via Adversarial Collaboration; X Zhao, H Stärk, D Beaini, P Liò, Y Zhao; ICLR 2023 - Machine Learning for Drug Discovery workshop
