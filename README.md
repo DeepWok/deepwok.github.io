@@ -101,6 +101,8 @@ I am also happy to host self-proposed projects if it matches the Lab's research 
 <!-- Achieving Accurate and Explainable Drug Discovery with Zero-Cost Network Architecture Search; H Knighton, Y Zhao, D Buterez, P Lio; The 2023 ICML Workshop on Computational Biology (ICML-WCB 2023) -->
 
 
+Revisiting Structured Dropout; Y Zhao, O Dada, X Gao, RD Mullins; The 15th Asian Conference on Machine Learning (ACML 2023)
+
 Genomic Interpreter: A Hierarchical Genomic Deep Neural Network with 1D Shifted Window Transformer; Z Li, A Das, WAV Beardall, Y Zhao, GB Stan; The 2023 ICML Workshop on Computational Biology (ICML-WCB 2023, contributed talk, best paper award)
 
 Revisiting Automated Prompting: Are We Actually Doing Better?; Y Zhou, Y Zhao, I Shumailov, R Mullins, Y Gal; Association for Computational Linguistics 2023 (ACL 2023)
