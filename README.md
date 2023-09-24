@@ -7,15 +7,18 @@ The DeepWok Lab, is an ML research group led by [Dr. Aaron Zhao](https://aaron-z
 </center>
 
 
-
 # Members
 
 * [Aaron Zhao](https://aaron-zhao123.github.io/)  (Principle Investigator)
 * [Cheng Zhang](https://www.linkedin.com/in/cheng-zhang-2aa1061a1/?originalSubdomain=cn) (PhD Student, co-supervised with [Prof. George Constantinides](https://cas.ee.ic.ac.uk/people/gac1/))
 * [Victor Zhao](https://victorzxy.github.io/) (PhD Student, co-supervised with [Prof. Pietro Lio](https://www.cl.cam.ac.uk/~pl219/))
-* [Zehui Li](https://healthtechweb.com/) (PhD Student, co-supervised with [Prof. Guy-Bart Stan](https://gstan.bg-research.cc.ic.ac.uk/welcome.html#Group_members))
+* [Zehui Li](https://zehui127.github.io/) (PhD Student, co-supervised with [Prof. Guy-Bart Stan](https://gstan.bg-research.cc.ic.ac.uk/welcome.html#Group_members))
+* [Mingzhu Shen](https://scholar.google.com/citations?user=o7vrw6IAAAAJ&hl=en) (PhD Student, co-supervised with [Prof. Christos Bouganis](https://www.imperial.ac.uk/people/christos-savvas.bouganis))
+* [Pedro Gimense](https://www.pedrogimenes.co.uk/) (PhD Student, co-supervised with [Prof. George Constantinides](https://cas.ee.ic.ac.uk/people/gac1/))
+* [Tim Clifford, starting in Jan](https://www.cl.cam.ac.uk/~tc565/) (PhD Student, co-supervised with [Prof. Ross Anderson](https://www.cl.cam.ac.uk/~rja14/) and [Prof. Robert Mullins](https://www.cl.cam.ac.uk/~rdm34/))
 
 ---
+
 # Student Projects
 
 Each year, we run and supervise a number of students for their undergraduate and master projects at Imperial College London and the University of Cambridge. We also run a great number of summer research internships.
@@ -45,7 +48,6 @@ If you are interested, please email me with your transcript and CV, and the foll
 * *High priority* [Constrained Hardware Accelerator Design for Machine Learning](https://jianyisphd.notion.site/Constrained-Hardware-Accelerator-Design-for-Machine-Learning-5d9b64ec031d4368bb5fef24abb14630) (Co-supervised with [Jianyi Cheng](https://jianyicheng.github.io/))
 * [Feature-level Augmentation](https://www.notion.so/Feature-level-Augmentation-8609e4d1cd7149f496121ab498eb4a86)
 * [Boosting Model Compression with Unlabelled Data](https://pie-ear-389.notion.site/Model-Compression-with-unlabelled-data-64a44c8225c34022a36f829e871f96af)
-
 
 I am also happy to host self-proposed projects if it matches the Lab's research interests. Feel free to contact a.zhao@imperial.ac.uk if you would like to do a project with us!
 
@@ -100,6 +102,9 @@ I am also happy to host self-proposed projects if it matches the Lab's research 
 
 <!-- Achieving Accurate and Explainable Drug Discovery with Zero-Cost Network Architecture Search; H Knighton, Y Zhao, D Buterez, P Lio; The 2023 ICML Workshop on Computational Biology (ICML-WCB 2023) -->
 
+MiliPoint: A Point Cloud Dataset for mmWave Radar
+; H Cui, S Zhong, J Wu, Z Shen, N Dahnoun, Y Zhao
+ (NeurIPS 2023 Datasets and Benchmarks Track)
 
 Revisiting Structured Dropout; Y Zhao, O Dada, X Gao, RD Mullins; The 15th Asian Conference on Machine Learning (ACML 2023)
 
