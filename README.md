@@ -29,7 +29,9 @@ This is an incomplete list of possible projects for summer/PartII/PartIII/Mphil/
 Some of the links may lead to empty Notion pages; these projects do exist, it's just taking some time to complete the documents.
 If you are interested, please email me with your transcript and CV, and the following is the list of our project proposals:
 
-* Note: For Imperial UROP candidates (does not apply to Cambridge UROP since those were naturally co-hosted), I am running out of capacity to accommodate UROP supervision, so now I only offer summer projects that are co-supervised:
+<!-- * Note: For Imperial UROP candidates (does not apply to Cambridge UROP since those were naturally co-hosted), I am running out of capacity to accommodate UROP supervision, so now I only offer summer projects that are co-supervised: -->
+
+* Note: For Imperial FYP candidates, project ideas would be updated in late September, however, I am more than happy to discuss self-proposed projects with you:
 
 
 * *Taken* ~~[Efficient Self-supervised Learning](https://pie-ear-389.notion.site/Efficient-Self-supervised-Learning-77ee286a7d264a74972ab31e7ccef116)~~
