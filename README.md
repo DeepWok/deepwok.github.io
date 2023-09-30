@@ -57,6 +57,11 @@ I am also happy to host self-proposed projects if it matches the Lab's research 
 
 ### Academic Year 2022/2023
 
+* [David Gyulamiryan](https://uk.linkedin.com/in/davidgyulamiryan) (Summer Research Intern, University of Cambridge)
+* [Eduard Burlacu](https://www.linkedin.com/in/eduard-burlacu-168860223?originalSubdomain=uk) (Summer Research Intern, University of Cambridge)
+* [Harry Langford](https://www.cst.cam.ac.uk/people/hjel2) (Summer Research Intern, University of Cambridge)
+* [Ben Zhang](https://uk.linkedin.com/in/ben-zhang-942247254) (Summer Research Intern, University of Cambridge)
+* [Leah He](https://uk.linkedin.com/in/leah-he-65722525b) (Summer Research Intern, University of Cambridge)
 * [Junyi Wu](https://uk.linkedin.com/in/junyi-wu-a83133249) (Summer Research Intern, Imperial College London)
 * [Harry Ni](https://www.linkedin.com/in/yuhao-ni/) (Summer Research Intern, Imperial College London)
 * [Xiandong Zou](https://www.linkedin.com/in/xiandong-z-502a6a1b0/) (Summer Research Intern, Imperial College London)
