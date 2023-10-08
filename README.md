@@ -37,15 +37,10 @@ If you are interested, please email me with your transcript and CV, and the foll
 * [Fast Hyperparameter Tuning for DNNs](https://pie-ear-389.notion.site/Fast-Hyperparameter-Tuning-for-DNNs-33bc4be456f44ec081e79366685be525?pvs=4)
 * [Large Language Models for Design Verification](https://pie-ear-389.notion.site/Large-Language-Models-for-Design-Verification-a24238fc155844da96028c0538573e07?pvs=4)
 * [On-device Parameter Efficient Fine-Tuning (PEFT)](https://pie-ear-389.notion.site/On-device-Parameter-Efficient-Fine-Tuning-PEFT-b484934ec9be4cc9af36c4fa97360e8a?pvs=4)
-
 * [Quantised Whisper](https://pie-ear-389.notion.site/Quantised-Whisper-1abdbeed5191444980dc7041254bfe02?pvs=4)
-
 * [Grouped attention for LLMs](https://pie-ear-389.notion.site/Grouped-attention-for-LLMs-cd7769fad8a04a2d8caeb53fdefe5e91?pvs=4)
-
 * [Neural weather forecasting with high-order graphs](https://pie-ear-389.notion.site/Neural-weather-forecasting-with-high-order-graphs-e95507ee61224fbbb58ed6fc415bd7bc?pvs=4)
-
 * [Mixed-precision quantisation for graph neural network acceleration](https://local-cereal-f6d.notion.site/Mixed-precision-Quantisation-for-Graph-Neural-Network-Acceleration-ab20d50095574e67b160332a3cb04ce3), proposed by Pedro Gimense
-
 * [Design and verification of an FPGA Accelerator for graph neural networks](https://local-cereal-f6d.notion.site/Design-and-Verification-of-an-FPGA-accelerator-for-Graph-Neural-Networks-8ff89e07793944a4b5fae5cea696383c), proposed by Pedro Gimense
 
 I am also happy to host self-proposed projects if it matches the Lab's research interests. Feel free to contact a.zhao@imperial.ac.uk if you would like to do a project with us!
