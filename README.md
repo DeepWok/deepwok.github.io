@@ -116,8 +116,9 @@ The 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2
 
 
 MiliPoint: A Point Cloud Dataset for mmWave Radar
-; H Cui, S Zhong, J Wu, Z Shen, N Dahnoun, Y Zhao
- (NeurIPS 2023 Datasets and Benchmarks Track)
+; 
+H Cui, S Zhong, J Wu, Z Shen, N Dahnoun, Y Zhao;
+Conference on Neural Information Processing Systems (NeurIPS 2023, Datasets and Benchmarks Track)
 
 Revisiting Structured Dropout; Y Zhao, O Dada, X Gao, RD Mullins; The 15th Asian Conference on Machine Learning (ACML 2023)
 
