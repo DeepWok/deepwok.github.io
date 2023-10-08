@@ -15,6 +15,7 @@ The DeepWok Lab, is an ML research group led by [Dr. Aaron Zhao](https://aaron-z
 * [Zehui Li](https://zehui127.github.io/) (PhD Student, co-supervised with [Prof. Guy-Bart Stan](https://gstan.bg-research.cc.ic.ac.uk/welcome.html#Group_members))
 * [Mingzhu Shen](https://scholar.google.com/citations?user=o7vrw6IAAAAJ&hl=en) (PhD Student, co-supervised with [Prof. Christos Bouganis](https://www.imperial.ac.uk/people/christos-savvas.bouganis))
 * [Pedro Gimense](https://www.pedrogimenes.co.uk/) (PhD Student, co-supervised with [Prof. George Constantinides](https://cas.ee.ic.ac.uk/people/gac1/))
+* [Timon Schneider](https://www.linkedin.com/in/timonschneider/) (PhD Student, co-supervised with [Prof. Tom Ellis](https://www.imperial.ac.uk/people/t.ellis), and [Prof. Guy-Bart Stan](https://gstan.bg-research.cc.ic.ac.uk/welcome.html#Group_members))
 * [Tim Clifford, starting in Jan](https://www.cl.cam.ac.uk/~tc565/) (PhD Student, co-supervised with [Prof. Ross Anderson](https://www.cl.cam.ac.uk/~rja14/) and [Prof. Robert Mullins](https://www.cl.cam.ac.uk/~rdm34/))
 
 ---
@@ -31,25 +32,21 @@ If you are interested, please email me with your transcript and CV, and the foll
 
 <!-- * Note: For Imperial UROP candidates (does not apply to Cambridge UROP since those were naturally co-hosted), I am running out of capacity to accommodate UROP supervision, so now I only offer summer projects that are co-supervised: -->
 
-* Note: For Imperial FYP candidates, project ideas would be updated in late September, however, I am more than happy to discuss self-proposed projects with you:
+*Note: For Imperial FYP candidates, I am more than happy to discuss self-proposed projects with you*
 
+* [Fast Hyperparameter Tuning for DNNs](https://pie-ear-389.notion.site/Fast-Hyperparameter-Tuning-for-DNNs-33bc4be456f44ec081e79366685be525?pvs=4)
+* [Large Language Models for Design Verification](https://pie-ear-389.notion.site/Large-Language-Models-for-Design-Verification-a24238fc155844da96028c0538573e07?pvs=4)
+* [On-device Parameter Efficient Fine-Tuning (PEFT)](https://pie-ear-389.notion.site/On-device-Parameter-Efficient-Fine-Tuning-PEFT-b484934ec9be4cc9af36c4fa97360e8a?pvs=4)
 
-* *Taken* ~~[Efficient Self-supervised Learning](https://pie-ear-389.notion.site/Efficient-Self-supervised-Learning-77ee286a7d264a74972ab31e7ccef116)~~
-* *Taken* ~~[Sparse training with dynamic lottery ticket](https://pie-ear-389.notion.site/Sparse-training-with-dynamic-lottery-ticket-0a5139b599bc42269e406be205ac76b6)~~
-* *Taken* ~~[Wide Vision Transformers](https://pie-ear-389.notion.site/Wide-Vision-Transformers-477d606ba68a4097856cdcd59f0e4391)~~
-* *Taken* ~~[Knowledge Distillation for Vision Transformers](https://pie-ear-389.notion.site/Knowledge-Distillation-for-Vision-Transformers-eb3d0d5a072144ec9538112a25ad31b3)~~
-* *Taken* ~~[Model backdoors in Multi-Agent RL](https://pie-ear-389.notion.site/Model-backdoors-in-Multi-Agent-RL-20eb3e95b4d2476a83703565689a6d13)~~
-* *Taken* ~~[Stable and Diverse DNA sequence design using Diffusion Models](https://www.notion.so/Stable-and-Diverse-DNA-sequence-design-using-Diffusion-Models-49717add86354b238678647da942b6af) (Co-supervised with [Prof. Guy-Bart Stan](https://www.imperial.ac.uk/people/g.stan)'s team as part of the AI4EB program)~~
-* *Taken* ~~[Transformer Quantization Framework](https://www.notion.so/Transformer-Quantization-Framework-cb3530272681413fa403d07064b03c32)~~
-* *Taken* ~~[Low precision Vision Transformers](https://pie-ear-389.notion.site/Low-precision-Vision-Transformers-f8257f92d3ea4d549e2a5fbdf497f4f4)~~
-* *Taken* ~~[Neural weather modeling using Graph Representational Learning](https://pie-ear-389.notion.site/Neural-weather-modeling-using-Graph-Representational-Learning-79ff11d0fe664b77818920ecbf967d15)~~
-* *Taken* ~~[Continuing the Art of Prompting in the Vision Land](https://pie-ear-389.notion.site/Continuing-the-Art-of-Prompting-in-the-Vision-Land-74186f9ece5c48e1939affe78bbf1b14)~~
-* *Taken* ~~[Dataflow Federated Learning](https://pie-ear-389.notion.site/Dataflow-learning-for-distributed-systems-d5933bf9f27245958de6967d33a410d3)~~
-* *[Taken]* ~~[Tricking GPT3 using prompt chaining](https://pie-ear-389.notion.site/Tricking-GPT3-using-chaining-1de895a0d5ce4e07882b9faf0a2e183b)~~
-* *[Taken]* ~~[GNN Expressiveness and Graph Generative Models](https://walnut-seeker-d3e.notion.site/GNN-Expressiveness-and-Graph-Generative-Models-e4d0f801c78b4f48a3be9693d01b02cb)~~
-* *High priority* [Constrained Hardware Accelerator Design for Machine Learning](https://jianyisphd.notion.site/Constrained-Hardware-Accelerator-Design-for-Machine-Learning-5d9b64ec031d4368bb5fef24abb14630) (Co-supervised with [Jianyi Cheng](https://jianyicheng.github.io/))
-* [Feature-level Augmentation](https://www.notion.so/Feature-level-Augmentation-8609e4d1cd7149f496121ab498eb4a86)
-* [Boosting Model Compression with Unlabelled Data](https://pie-ear-389.notion.site/Model-Compression-with-unlabelled-data-64a44c8225c34022a36f829e871f96af)
+* [Quantised Whisper](https://pie-ear-389.notion.site/Quantised-Whisper-1abdbeed5191444980dc7041254bfe02?pvs=4)
+
+* [Grouped attention for LLMs](https://pie-ear-389.notion.site/Grouped-attention-for-LLMs-cd7769fad8a04a2d8caeb53fdefe5e91?pvs=4)
+
+* [Neural weather forecasting with high-order graphs](https://pie-ear-389.notion.site/Neural-weather-forecasting-with-high-order-graphs-e95507ee61224fbbb58ed6fc415bd7bc?pvs=4)
+
+* [Mixed-precision quantisation for graph neural network acceleration](https://local-cereal-f6d.notion.site/Mixed-precision-Quantisation-for-Graph-Neural-Network-Acceleration-ab20d50095574e67b160332a3cb04ce3), proposed by Pedro Gimense
+
+* [Design and verification of an FPGA Accelerator for graph neural networks](https://local-cereal-f6d.notion.site/Design-and-Verification-of-an-FPGA-accelerator-for-Graph-Neural-Networks-8ff89e07793944a4b5fae5cea696383c), proposed by Pedro Gimense
 
 I am also happy to host self-proposed projects if it matches the Lab's research interests. Feel free to contact a.zhao@imperial.ac.uk if you would like to do a project with us!
 
@@ -108,6 +105,15 @@ I am also happy to host self-proposed projects if it matches the Lab's research 
 ## Year 2023
 
 <!-- Achieving Accurate and Explainable Drug Discovery with Zero-Cost Network Architecture Search; H Knighton, Y Zhao, D Buterez, P Lio; The 2023 ICML Workshop on Computational Biology (ICML-WCB 2023) -->
+
+Dynamic Stashing Quantization for Efficient Transformer Training;
+G Yang, D Lo, R Mullins, Y Zhao;
+The 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023, findings)
+
+Revisiting Block-based Quantisation: What is Important for Sub-8-bit LLM Inference?;
+C Zhang, J Cheng, I Shumailov, G Constantinides, Y Zhao;
+The 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023)
+
 
 MiliPoint: A Point Cloud Dataset for mmWave Radar
 ; H Cui, S Zhong, J Wu, Z Shen, N Dahnoun, Y Zhao
