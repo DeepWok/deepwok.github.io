@@ -42,6 +42,7 @@ If you are interested, please email me with your transcript and CV, and the foll
 * [Neural weather forecasting with high-order graphs](https://pie-ear-389.notion.site/Neural-weather-forecasting-with-high-order-graphs-e95507ee61224fbbb58ed6fc415bd7bc?pvs=4)
 * [Mixed-precision quantisation for graph neural network acceleration](https://local-cereal-f6d.notion.site/Mixed-precision-Quantisation-for-Graph-Neural-Network-Acceleration-ab20d50095574e67b160332a3cb04ce3), proposed by Pedro Gimense
 * [Design and verification of an FPGA Accelerator for graph neural networks](https://local-cereal-f6d.notion.site/Design-and-Verification-of-an-FPGA-accelerator-for-Graph-Neural-Networks-8ff89e07793944a4b5fae5cea696383c), proposed by Pedro Gimense
+* [Conditional Generation of DNA Sequences with Language Models](https://chartreuse-nurse-1e1.notion.site/Conditional-Generation-of-DNA-Sequences-with-Language-Models-e6b34724c1e845ab80d83a2acb82f49e#aac4918424074796af6219056f7d3925), proposed by Zehui Li 
 
 I am also happy to host self-proposed projects if it matches the Lab's research interests. Feel free to contact a.zhao@imperial.ac.uk if you would like to do a project with us!
 
