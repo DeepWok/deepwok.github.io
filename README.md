@@ -48,6 +48,16 @@ I am also happy to host self-proposed projects if it matches the Lab's research 
 
 ## Past and Current Students
 
+### Academic Year 2023/2024
+
+
+* [Derek Lai](https://www.linkedin.com/in/derek-lai-8078741a7/?originalSubdomain=uk) (Final Year Project, Imperial College London)
+* [Bakhtiar Mohammadzadeh](https://bakhtiarz.github.io/) (Final Year Project, Imperial College London)
+* [TszHang Wong](https://www.linkedin.com/in/tsz-hang-wong-b7206b247/) (Final Year Project, Imperial College London)
+* [Ben Zhang](https://uk.linkedin.com/in/ben-zhang-942247254) (Part II Project, University of Cambridge)
+* [Bradley Chen](https://www.linkedin.com/in/yuang-chen-15b6a5224/?originalSubdomain=uk) (Part II Project, University of Cambridge)
+* [Kate Liang](https://www.linkedin.com/in/katelkq/?originalSubdomain=uk) (Part II Project, University of Cambridge)
+
 ### Academic Year 2022/2023
 
 * [David Gyulamiryan](https://uk.linkedin.com/in/davidgyulamiryan) (Summer Research Intern, University of Cambridge)
