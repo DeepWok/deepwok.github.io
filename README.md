@@ -113,7 +113,7 @@ I am also happy to host self-proposed projects if it matches the Lab's research 
 <!-- Achieving Accurate and Explainable Drug Discovery with Zero-Cost Network Architecture Search; H Knighton, Y Zhao, D Buterez, P Lio; The 2023 ICML Workshop on Computational Biology (ICML-WCB 2023) -->
 
 Latent Diffusion Model for DNA Sequence Generation;
-Z Li, Y Ni, T Huygelen, A Das, G Xia, G Stan, Y Zhao
+Z Li, Y Ni, T Huygelen, A Das, G Xia, G Stan, Y Zhao;
 Conference on Neural Information Processing Systems, AI for Science Workshop (NeurIPS 2023, AI for Science Workshop)
 
 MASE: An Efficient Representation for Software-Defined ML Hardware System Exploration;
