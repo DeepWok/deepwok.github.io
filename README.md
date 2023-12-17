@@ -10,7 +10,7 @@ The DeepWok Lab, is an ML research group led by [Dr. Aaron Zhao](https://aaron-z
 # Members
 
 * [Aaron Zhao](https://aaron-zhao123.github.io/)  (Principle Investigator)
-* [Cheng Zhang](https://www.linkedin.com/in/cheng-zhang-2aa1061a1/?originalSubdomain=cn) (PhD Student, co-supervised with [Prof. George Constantinides](https://cas.ee.ic.ac.uk/people/gac1/))
+* [Cheng Zhang](https://chengzhang-98.github.io/blog/) (PhD Student, co-supervised with [Prof. George Constantinides](https://cas.ee.ic.ac.uk/people/gac1/))
 * [Victor Zhao](https://victorzxy.github.io/) (PhD Student, co-supervised with [Prof. Pietro Lio](https://www.cl.cam.ac.uk/~pl219/))
 * [Zehui Li](https://zehui127.github.io/) (PhD Student, co-supervised with [Prof. Guy-Bart Stan](https://gstan.bg-research.cc.ic.ac.uk/welcome.html#Group_members))
 * [Mingzhu Shen](https://scholar.google.com/citations?user=o7vrw6IAAAAJ&hl=en) (PhD Student, co-supervised with [Prof. Christos Bouganis](https://www.imperial.ac.uk/people/christos-savvas.bouganis))
@@ -26,23 +26,24 @@ Each year, we run and supervise a number of students for their undergraduate and
 
 ## Project Proposals
 
-This is an incomplete list of possible projects for summer/PartII/PartIII/Mphil/MSc/FYP students [last update: 26th Jan].
+This is an incomplete list of possible projects for summer/PartII/PartIII/Mphil/MSc/FYP students [last update: 17th Dec 2023].
 Some of the links may lead to empty Notion pages; these projects do exist, it's just taking some time to complete the documents.
-If you are interested, please email me with your transcript and CV, and the following is the list of our project proposals:
+If you are interested, please email me with your transcript and CV, and the following is the list of our project proposals,
+this year, because of space limitations, we are only consider 3rd or 4th year students. 
 
 <!-- * Note: For Imperial UROP candidates (does not apply to Cambridge UROP since those were naturally co-hosted), I am running out of capacity to accommodate UROP supervision, so now I only offer summer projects that are co-supervised: -->
 
 *Note: For Imperial FYP candidates, I am more than happy to discuss self-proposed projects with you*
 
-* [Fast Hyperparameter Tuning for DNNs](https://pie-ear-389.notion.site/Fast-Hyperparameter-Tuning-for-DNNs-33bc4be456f44ec081e79366685be525?pvs=4)
-* [Large Language Models for Design Verification](https://pie-ear-389.notion.site/Large-Language-Models-for-Design-Verification-a24238fc155844da96028c0538573e07?pvs=4)
-* [On-device Parameter Efficient Fine-Tuning (PEFT)](https://pie-ear-389.notion.site/On-device-Parameter-Efficient-Fine-Tuning-PEFT-b484934ec9be4cc9af36c4fa97360e8a?pvs=4)
 * [Quantised Whisper](https://pie-ear-389.notion.site/Quantised-Whisper-1abdbeed5191444980dc7041254bfe02?pvs=4)
-* [Grouped attention for LLMs](https://pie-ear-389.notion.site/Grouped-attention-for-LLMs-cd7769fad8a04a2d8caeb53fdefe5e91?pvs=4)
-* [Neural weather forecasting with high-order graphs](https://pie-ear-389.notion.site/Neural-weather-forecasting-with-high-order-graphs-e95507ee61224fbbb58ed6fc415bd7bc?pvs=4)
 * [Mixed-precision quantisation for graph neural network acceleration](https://local-cereal-f6d.notion.site/Mixed-precision-Quantisation-for-Graph-Neural-Network-Acceleration-ab20d50095574e67b160332a3cb04ce3), proposed by Pedro Gimense
 * [Design and verification of an FPGA Accelerator for graph neural networks](https://local-cereal-f6d.notion.site/Design-and-Verification-of-an-FPGA-accelerator-for-Graph-Neural-Networks-8ff89e07793944a4b5fae5cea696383c), proposed by Pedro Gimense
-* [Conditional Generation of DNA Sequences with Language Models](https://chartreuse-nurse-1e1.notion.site/Conditional-Generation-of-DNA-Sequences-with-Language-Models-e6b34724c1e845ab80d83a2acb82f49e#aac4918424074796af6219056f7d3925), proposed by Zehui Li 
+* ~~[Fast Hyperparameter Tuning for DNNs](https://pie-ear-389.notion.site/Fast-Hyperparameter-Tuning-for-DNNs-33bc4be456f44ec081e79366685be525?pvs=4)~~
+* ~~[Large Language Models for Design Verification](https://pie-ear-389.notion.site/Large-Language-Models-for-Design-Verification-a24238fc155844da96028c0538573e07?pvs=4)~~
+* ~~[On-device Parameter Efficient Fine-Tuning (PEFT)](https://pie-ear-389.notion.site/On-device-Parameter-Efficient-Fine-Tuning-PEFT-b484934ec9be4cc9af36c4fa97360e8a?pvs=4)~~
+* ~~[Grouped attention for LLMs](https://pie-ear-389.notion.site/Grouped-attention-for-LLMs-cd7769fad8a04a2d8caeb53fdefe5e91?pvs=4)~~
+* ~~[Neural weather forecasting with high-order graphs](https://pie-ear-389.notion.site/Neural-weather-forecasting-with-high-order-graphs-e95507ee61224fbbb58ed6fc415bd7bc?pvs=4)~~
+* ~~[Conditional Generation of DNA Sequences with Language Models](https://chartreuse-nurse-1e1.notion.site/Conditional-Generation-of-DNA-Sequences-with-Language-Models-e6b34724c1e845ab80d83a2acb82f49e#aac4918424074796af6219056f7d3925), proposed by Zehui Li~~
 
 I am also happy to host self-proposed projects if it matches the Lab's research interests. Feel free to contact a.zhao@imperial.ac.uk if you would like to do a project with us!
 
@@ -50,7 +51,13 @@ I am also happy to host self-proposed projects if it matches the Lab's research 
 
 ### Academic Year 2023/2024
 
-
+* Li Wang(MSc project, Imperial College London)
+* Charles Jin(MSc project, Imperial College London)
+* Yichen Li(MSc project, Imperial College London)
+* [Przemyslaw Forys](https://uk.linkedin.com/in/przemyslaw-forys-58598b190/en) (MSc project, Imperial College London)
+* Yuhe Zhang (Final Year Project, Imperial College London)
+* [Bryan Tan](https://uk.linkedin.com/in/bryan-eh-tan?trk=public_profile_browsemap) (Final Year Project, Imperial College London)
+* [Balint Szekely](https://uk.linkedin.com/in/balint-szekely-a796b219a) (Final Year Project, Imperial College London)
 * [Derek Lai](https://www.linkedin.com/in/derek-lai-8078741a7/?originalSubdomain=uk) (Final Year Project, Imperial College London)
 * [Bakhtiar Mohammadzadeh](https://bakhtiarz.github.io/) (Final Year Project, Imperial College London)
 * [TszHang Wong](https://www.linkedin.com/in/tsz-hang-wong-b7206b247/) (Final Year Project, Imperial College London)
@@ -128,9 +135,7 @@ Revisiting Block-based Quantisation: What is Important for Sub-8-bit LLM Inferen
 C Zhang, J Cheng, I Shumailov, G Constantinides, Y Zhao;
 The 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023)
 
-
-MiliPoint: A Point Cloud Dataset for mmWave Radar
-; 
+MiliPoint: A Point Cloud Dataset for mmWave Radar; 
 H Cui, S Zhong, J Wu, Z Shen, N Dahnoun, Y Zhao;
 Conference on Neural Information Processing Systems (NeurIPS 2023, Datasets and Benchmarks Track)
 
@@ -140,8 +145,7 @@ Genomic Interpreter: A Hierarchical Genomic Deep Neural Network with 1D Shifted 
 
 Revisiting Automated Prompting: Are We Actually Doing Better?; Y Zhou, Y Zhao, I Shumailov, R Mullins, Y Gal; Association for Computational Linguistics 2023 (ACL 2023)
 
-Task-Agnostic Graph Neural Network Evaluation via Adversarial Collaboration; X Zhao, H Stärk, D Beaini, P Liò, Y Zhao; ICLR 2023 - Machine Learning for Drug Discovery workshop
- (ICLR 2023 MLDD workshop)
+Task-Agnostic Graph Neural Network Evaluation via Adversarial Collaboration; X Zhao, H Stärk, D Beaini, P Liò, Y Zhao; ICLR 2023 - Machine Learning for Drug Discovery workshop (ICLR 2023 MLDD workshop)
 
 Augmentation Backdoors;
 J Rance, Y Zhao, I Shumailov, R Mullins; ICLR 2023 Workshop on Backdoor Attacks and Defenses in Machine Learning (ICLR 2023 BANDS Workshop)
