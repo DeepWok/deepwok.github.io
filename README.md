@@ -118,6 +118,9 @@ I am also happy to host self-proposed projects if it matches the Lab's research 
 ## Year 2023
 
 <!-- Achieving Accurate and Explainable Drug Discovery with Zero-Cost Network Architecture Search; H Knighton, Y Zhao, D Buterez, P Lio; The 2023 ICML Workshop on Computational Biology (ICML-WCB 2023) -->
+Will More Expressive Graph Neural Networks do Better on Generative Tasks?;
+X Zou, X Zhao, P Lio, Y Zhao; 
+The Second Learning on Graphs Conference (LOG 2023)
 
 Latent Diffusion Model for DNA Sequence Generation;
 Z Li, Y Ni, T Huygelen, A Das, G Xia, G Stan, Y Zhao;
@@ -135,26 +138,37 @@ Revisiting Block-based Quantisation: What is Important for Sub-8-bit LLM Inferen
 C Zhang, J Cheng, I Shumailov, G Constantinides, Y Zhao;
 The 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023)
 
-MiliPoint: A Point Cloud Dataset for mmWave Radar; 
+MiliPoint: A Point Cloud Dataset for mmWave Radar;
 H Cui, S Zhong, J Wu, Z Shen, N Dahnoun, Y Zhao;
 Conference on Neural Information Processing Systems (NeurIPS 2023, Datasets and Benchmarks Track)
 
-Revisiting Structured Dropout; Y Zhao, O Dada, X Gao, RD Mullins; The 15th Asian Conference on Machine Learning (ACML 2023)
+Revisiting Structured Dropout;
+Y Zhao, O Dada, X Gao, RD Mullins; 
+The 15th Asian Conference on Machine Learning (ACML 2023)
 
-Genomic Interpreter: A Hierarchical Genomic Deep Neural Network with 1D Shifted Window Transformer; Z Li, A Das, WAV Beardall, Y Zhao, GB Stan; The 2023 ICML Workshop on Computational Biology (ICML-WCB 2023, contributed talk, best paper award)
+Genomic Interpreter: A Hierarchical Genomic Deep Neural Network with 1D Shifted Window Transformer;
+Z Li, A Das, WAV Beardall, Y Zhao, GB Stan;
+The 2023 ICML Workshop on Computational Biology (ICML-WCB 2023, contributed talk, best paper award)
 
-Revisiting Automated Prompting: Are We Actually Doing Better?; Y Zhou, Y Zhao, I Shumailov, R Mullins, Y Gal; Association for Computational Linguistics 2023 (ACL 2023)
+Revisiting Automated Prompting: Are We Actually Doing Better?;
+Y Zhou, Y Zhao, I Shumailov, R Mullins, Y Gal;
+Association for Computational Linguistics 2023 (ACL 2023)
 
-Task-Agnostic Graph Neural Network Evaluation via Adversarial Collaboration; X Zhao, H Stärk, D Beaini, P Liò, Y Zhao; ICLR 2023 - Machine Learning for Drug Discovery workshop (ICLR 2023 MLDD workshop)
+Task-Agnostic Graph Neural Network Evaluation via Adversarial Collaboration;
+X Zhao, H Stärk, D Beaini, P Liò, Y Zhao;
+ICLR 2023 - Machine Learning for Drug Discovery workshop (ICLR 2023 MLDD workshop)
 
 Augmentation Backdoors;
-J Rance, Y Zhao, I Shumailov, R Mullins; ICLR 2023 Workshop on Backdoor Attacks and Defenses in Machine Learning (ICLR 2023 BANDS Workshop)
+J Rance, Y Zhao, I Shumailov, R Mullins;
+ICLR 2023 Workshop on Backdoor Attacks and Defenses in Machine Learning (ICLR 2023 BANDS Workshop)
 
 Adaptive Channel Sparsity for Federated Learning under System Heterogeneity;
-X Gao, D Liao, Y Zhao, C Xu; The IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR 2023)
+X Gao, D Liao, Y Zhao, C Xu;
+The IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR 2023)
 
 Architectural Backdoors in Neural Networks;
-M Bober-Irizar, I Shumailov, Y Zhao, R Mullins, N Papernot; The IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR 2023)
+M Bober-Irizar, I Shumailov, Y Zhao, R Mullins, N Papernot;
+The IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR 2023)
 
 
 ## Year 2022
