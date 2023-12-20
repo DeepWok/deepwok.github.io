@@ -118,8 +118,12 @@ I am also happy to host self-proposed projects if it matches the Lab's research 
 ## Year 2023
 
 <!-- Achieving Accurate and Explainable Drug Discovery with Zero-Cost Network Architecture Search; H Knighton, Y Zhao, D Buterez, P Lio; The 2023 ICML Workshop on Computational Biology (ICML-WCB 2023) -->
+ImpNet: Imperceptible and blackbox-undetectable backdoors in compiled neural networks;
+T Clifford, I Shumailov, Y Zhao, R Anderson, R Mullins;
+2nd IEEE Conference on Secure and Trustworthy Machine Learning (SaTML 2024)
+
 Will More Expressive Graph Neural Networks do Better on Generative Tasks?;
-X Zou, X Zhao, P Lio, Y Zhao; 
+X Zou, X Zhao, P Lio, Y Zhao;
 The Second Learning on Graphs Conference (LOG 2023)
 
 Latent Diffusion Model for DNA Sequence Generation;
