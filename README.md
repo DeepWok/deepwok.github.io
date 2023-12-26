@@ -16,7 +16,7 @@ The DeepWok Lab, is an ML research group led by [Dr. Aaron Zhao](https://aaron-z
 * [Mingzhu Shen](https://scholar.google.com/citations?user=o7vrw6IAAAAJ&hl=en) (PhD Student, co-supervised with [Prof. Christos Bouganis](https://www.imperial.ac.uk/people/christos-savvas.bouganis))
 * [Pedro Gimense](https://www.pedrogimenes.co.uk/) (PhD Student, co-supervised with [Prof. George Constantinides](https://cas.ee.ic.ac.uk/people/gac1/))
 * [Timon Schneider](https://www.linkedin.com/in/timonschneider/) (PhD Student, co-supervised with [Prof. Tom Ellis](https://www.imperial.ac.uk/people/t.ellis), and [Prof. Guy-Bart Stan](https://gstan.bg-research.cc.ic.ac.uk/welcome.html#Group_members))
-* [Tim Clifford, starting in Jan](https://www.cl.cam.ac.uk/~tc565/) (PhD Student, co-supervised with [Prof. Ross Anderson](https://www.cl.cam.ac.uk/~rja14/) and [Prof. Robert Mullins](https://www.cl.cam.ac.uk/~rdm34/))
+* [Tim Clifford](https://www.cl.cam.ac.uk/~tc565/) (PhD Student, co-supervised with [Prof. Ross Anderson](https://www.cl.cam.ac.uk/~rja14/) and [Prof. Robert Mullins](https://www.cl.cam.ac.uk/~rdm34/))
 
 ---
 
@@ -115,12 +115,14 @@ I am also happy to host self-proposed projects if it matches the Lab's research 
 
 # Publication
 
-## Year 2023
+## Year 2024
 
 <!-- Achieving Accurate and Explainable Drug Discovery with Zero-Cost Network Architecture Search; H Knighton, Y Zhao, D Buterez, P Lio; The 2023 ICML Workshop on Computational Biology (ICML-WCB 2023) -->
 ImpNet: Imperceptible and blackbox-undetectable backdoors in compiled neural networks;
 T Clifford, I Shumailov, Y Zhao, R Anderson, R Mullins;
 2nd IEEE Conference on Secure and Trustworthy Machine Learning (SaTML 2024)
+
+## Year 2023
 
 Will More Expressive Graph Neural Networks do Better on Generative Tasks?;
 X Zou, X Zhao, P Lio, Y Zhao;
