@@ -119,8 +119,11 @@ I am also happy to host self-proposed projects if it matches the Lab's research 
 
 ## Year 2024
 
-<!-- Achieving Accurate and Explainable Drug Discovery with Zero-Cost Network Architecture Search; H Knighton, Y Zhao, D Buterez, P Lio; The 2023 ICML Workshop on Computational Biology (ICML-WCB 2023) -->
-ImpNet: Imperceptible and blackbox-undetectable backdoors in compiled neural networks;
+LQER: Low-Rank Quantization Error Reconstruction for LLMs
+C Zhang, J Cheng, G Constantinides, Y Zhao;
+International Conference on Machine Learning (ICML 2024)
+
+ImpNet: Imperceptible and Blackbox-undetectable Backdoors in Compiled Neural Networks;
 E Clifford, I Shumailov, Y Zhao, R Anderson, R Mullins;
 2nd IEEE Conference on Secure and Trustworthy Machine Learning (SaTML 2024)
 
