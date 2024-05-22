@@ -119,7 +119,7 @@ I am also happy to host self-proposed projects if it matches the Lab's research 
 
 ## Year 2024
 
-LQER: Low-Rank Quantization Error Reconstruction for LLMs
+LQER: Low-Rank Quantization Error Reconstruction for LLMs;
 C Zhang, J Cheng, G Constantinides, Y Zhao;
 International Conference on Machine Learning (ICML 2024)
 
