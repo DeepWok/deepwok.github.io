@@ -53,6 +53,13 @@ I am also happy to host self-proposed projects if it matches the Lab's research 
 
 ### Academic Year 2023/2024
 
+* Henry Li (Summer Research Intern, University of Cambridge)
+* [Ben Zhang](https://uk.linkedin.com/in/ben-zhang-942247254) (Summer Research Intern, University of Cambridge)
+* [Harry Langford](https://www.cst.cam.ac.uk/people/hjel2) (Summer Research Intern, University of Cambridge)
+* [Sanjit Raman](https://uk.linkedin.com/in/sanjit-raman-88b1b91b3) (Summer Research/Teaching Intern, Imperial College London)
+* [Kevin Lau](https://hk.linkedin.com/in/kevin-lau-b61a76182) (Summer Research/Teaching Intern, Imperial College London)
+* [Xiandong Zou](https://www.linkedin.com/in/xiandong-z-502a6a1b0/) (Summer Research Intern, Imperial College London)
+* Roshan Aekote(Summer Research Intern, Imperial College London)
 * Li Wang(MSc project, Imperial College London)
 * Charles Jin(MSc project, Imperial College London)
 * Yichen Li(MSc project, Imperial College London)
@@ -118,6 +125,12 @@ I am also happy to host self-proposed projects if it matches the Lab's research 
 # Publication
 
 ## Year 2024
+
+Unlocking the Global Synergies in Low-Rank Adapters
+Zixi Zhang, Cheng Zhang, Xitong Gao, Robert D. Mullins, George Anthony Constantinides, Yiren Zhao; ICML 2024 Workshop ES-FoMo-II
+
+Optimised Grouped-Query Attention Mechanism for Transformers;
+Yuang Chen, Cheng Zhang, Xitong Gao, Robert D. Mullins, George Anthony Constantinides, Yiren Zhao; ICML 2024 Workshop ES-FoMo-II
 
 HASS: Hardware-Aware Sparsity Search for Dataflow DNN Accelerators;
 Z Yu, S Sreeram, K Agrawal, J Wu, A Montgomerie-Corcoran, C Zhang, J Cheng, C Bouganis, Y Zhao; The International Conference on Field-Programmable Logic and Applications (FPL 2024)
