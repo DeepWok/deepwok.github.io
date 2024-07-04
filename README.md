@@ -127,6 +127,9 @@ I am also happy to host self-proposed projects if it matches the Lab's research 
 
 ## Year 2024
 
+Enhancing Node Representations for Real-World Complex Networks with Topological Augmentation;
+Xiangyu Zhao, Zehui Li, Mingzhu Shen, Guy-Bart Stan, Pietro Lio, Yiren Zhao; European Conference on Artificial Intelligence (ECAI 2024)
+
 Unlocking the Global Synergies in Low-Rank Adapters;
 Zixi Zhang, Cheng Zhang, Xitong Gao, Robert D. Mullins, George Anthony Constantinides, Yiren Zhao; ICML 2024 Workshop ES-FoMo-II
 
