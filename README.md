@@ -27,7 +27,7 @@ The DeepWok Lab, is an ML research group led by [Dr. Aaron Zhao](https://aaron-z
 
 Each year, we run and supervise a number of students for their undergraduate and master projects at Imperial College London and the University of Cambridge. We also run a great number of summer research internships.
 
-**We finished hiring for the 2024 summer**
+**We finished hiring for the 2024 summer, please only contact me for 2025 MEng/Mphil/MSc/Part II/Part III/Intern projets**
 
 Instead of listing the projects here, I found it is generally easier to provide the students with our interested research topics so that interested students can reach out to us. Here are some of the topics and large projects we are interested in continously working on:
 
