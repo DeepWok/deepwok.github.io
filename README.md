@@ -9,7 +9,7 @@ The DeepWok Lab, is an ML research group led by [Dr. Aaron Zhao](https://aaron-z
 
 # Members
 
-* [Aaron Zhao](https://aaron-zhao123.github.io/)  (Principle Investigator)
+* [Aaron Zhao](https://aaron-zhao123.github.io/)  (Faculty, PI)
 * [Cheng Zhang](https://chengzhang-98.github.io/blog/) (PhD Student, co-supervised with [Prof. George Constantinides](https://cas.ee.ic.ac.uk/people/gac1/))
 * [Victor Zhao](https://victorzxy.github.io/) (PhD Student, co-supervised with [Prof. Pietro Lio](https://www.cl.cam.ac.uk/~pl219/))
 * [Zehui Li](https://zehui127.github.io/) (PhD Student, co-supervised with [Prof. Guy-Bart Stan](https://gstan.bg-research.cc.ic.ac.uk/welcome.html#Group_members))
@@ -17,7 +17,9 @@ The DeepWok Lab, is an ML research group led by [Dr. Aaron Zhao](https://aaron-z
 * [Pedro Gimense](https://www.pedrogimenes.co.uk/) (PhD Student, co-supervised with [Prof. George Constantinides](https://cas.ee.ic.ac.uk/people/gac1/))
 * [Timon Schneider](https://www.linkedin.com/in/timonschneider/) (PhD Student, co-supervised with [Prof. Tom Ellis](https://www.imperial.ac.uk/people/t.ellis), and [Prof. Guy-Bart Stan](https://gstan.bg-research.cc.ic.ac.uk/welcome.html#Group_members))
 * [Eleanor Clifford](https://eleanor.clifford.lol/) (PhD Student, co-supervised with [Prof. Ross Anderson](https://www.cl.cam.ac.uk/~rja14/) and [Prof. Robert Mullins](https://www.cl.cam.ac.uk/~rdm34/))
-* [Can Xiao]() (PhD Student, co-supervised with [Dr. Jianyi Cheng](https://jianyicheng.github.io/) 
+* [Can Xiao]() (PhD Student, co-supervised with [Dr. Jianyi Cheng](https://jianyicheng.github.io/))
+* [Jefforey Tsz Hang Wong](https://uk.linkedin.com/in/tsz-hang-wong-b7206b247?trk=people_directory) (PhD Student, starting in Oct)
+* [Hanna Foerster](https://uk.linkedin.com/in/hannafoerster) (PhD Student, starting in Oct, co-supervised with [Prof. Robert Mullins](https://www.cl.cam.ac.uk/~rdm34/))
 
 ---
 
@@ -27,26 +29,15 @@ Each year, we run and supervise a number of students for their undergraduate and
 
 **We finished hiring for the 2024 summer**
 
-## Project Proposals
+Instead of listing the projects here, I found it is generally easier to provide the students with our interested research topics so that interested students can reach out to us. Here are some of the topics and large projects we are interested in continously working on:
 
-This is an incomplete list of possible projects for summer/PartII/PartIII/Mphil/MSc/FYP students [last update: 17th Dec 2023].
-Some of the links may lead to empty Notion pages; these projects do exist, it's just taking some time to complete the documents.
-If you are interested, please email me with your transcript and CV, and the following is the list of our project proposals,
-this year, because of space limitations, we are only consider 3rd or 4th year students. 
+* [Project MASE](https://github.com/DeepWok/mase): MASE aims to provide a unified representation for software-defined ML heterogeneous system exploration. We are looking for students who are interested in working on this project with an ideal background and interest in ML System, Efficient ML and ML hardware acceleration.
 
-<!-- * Note: For Imperial UROP candidates (does not apply to Cambridge UROP since those were naturally co-hosted), I am running out of capacity to accommodate UROP supervision, so now I only offer summer projects that are co-supervised: -->
+* Beyond Structure Data: We are interested in working on projects that involve unstructured and multimodal data, such as graphs, hypergraphs and combinational complex. We envision these data types would be the eanbler for the next generation of AI systems that goes beyond simple images and text. And we are looking for students who are interested in working on these projects.
 
-*Note: For Imperial FYP candidates, I am more than happy to discuss self-proposed projects with you*
+* Efficient AI: We are interested in different aspects of efficient AI, including efficient training, efficient inference, efficient model search and efficient model deployment with state-of-the-art GenAI models (eg. language and diffusion models). 
 
-* [Quantised Whisper](https://pie-ear-389.notion.site/Quantised-Whisper-1abdbeed5191444980dc7041254bfe02?pvs=4)
-* [Mixed-precision quantisation for graph neural network acceleration](https://local-cereal-f6d.notion.site/Mixed-precision-Quantisation-for-Graph-Neural-Network-Acceleration-ab20d50095574e67b160332a3cb04ce3), proposed by Pedro Gimense
-* [Design and verification of an FPGA Accelerator for graph neural networks](https://local-cereal-f6d.notion.site/Design-and-Verification-of-an-FPGA-accelerator-for-Graph-Neural-Networks-8ff89e07793944a4b5fae5cea696383c), proposed by Pedro Gimense
-* ~~[Fast Hyperparameter Tuning for DNNs](https://pie-ear-389.notion.site/Fast-Hyperparameter-Tuning-for-DNNs-33bc4be456f44ec081e79366685be525?pvs=4)~~
-* ~~[Large Language Models for Design Verification](https://pie-ear-389.notion.site/Large-Language-Models-for-Design-Verification-a24238fc155844da96028c0538573e07?pvs=4)~~
-* ~~[On-device Parameter Efficient Fine-Tuning (PEFT)](https://pie-ear-389.notion.site/On-device-Parameter-Efficient-Fine-Tuning-PEFT-b484934ec9be4cc9af36c4fa97360e8a?pvs=4)~~
-* ~~[Grouped attention for LLMs](https://pie-ear-389.notion.site/Grouped-attention-for-LLMs-cd7769fad8a04a2d8caeb53fdefe5e91?pvs=4)~~
-* ~~[Neural weather forecasting with high-order graphs](https://pie-ear-389.notion.site/Neural-weather-forecasting-with-high-order-graphs-e95507ee61224fbbb58ed6fc415bd7bc?pvs=4)~~
-* ~~[Conditional Generation of DNA Sequences with Language Models](https://chartreuse-nurse-1e1.notion.site/Conditional-Generation-of-DNA-Sequences-with-Language-Models-e6b34724c1e845ab80d83a2acb82f49e#aac4918424074796af6219056f7d3925), proposed by Zehui Li~~
+* System-level AI Safety: with the increasing capability of GenAI models and the growing complexity of AI systems, we are interested in working on projects that focus on the system-level AI safety, including robustness, security, and red-teaming these models to understand new vulnerabilities.
 
 I am also happy to host self-proposed projects if it matches the Lab's research interests. Feel free to contact a.zhao@imperial.ac.uk if you would like to do a project with us!
 
@@ -131,10 +122,10 @@ Enhancing Node Representations for Real-World Complex Networks with Topological 
 Xiangyu Zhao, Zehui Li, Mingzhu Shen, Guy-Bart Stan, Pietro Lio, Yiren Zhao; European Conference on Artificial Intelligence (ECAI 2024)
 
 Unlocking the Global Synergies in Low-Rank Adapters;
-Zixi Zhang, Cheng Zhang, Xitong Gao, Robert D. Mullins, George Anthony Constantinides, Yiren Zhao; ICML 2024 Workshop ES-FoMo-II
+Zixi Zhang, Cheng Zhang, Xitong Gao, Robert D. Mullins, George Anthony Constantinides, Yiren Zhao; (ICML 2024 Workshop ES-FoMo-II)
 
 Optimised Grouped-Query Attention Mechanism for Transformers;
-Yuang Chen, Cheng Zhang, Xitong Gao, Robert D. Mullins, George Anthony Constantinides, Yiren Zhao; ICML 2024 Workshop ES-FoMo-II
+Yuang Chen, Cheng Zhang, Xitong Gao, Robert D. Mullins, George Anthony Constantinides, Yiren Zhao; (ICML 2024 Workshop ES-FoMo-II)
 
 HASS: Hardware-Aware Sparsity Search for Dataflow DNN Accelerators;
 Z Yu, S Sreeram, K Agrawal, J Wu, A Montgomerie-Corcoran, C Zhang, J Cheng, C Bouganis, Y Zhao; The International Conference on Field-Programmable Logic and Applications (FPL 2024)
