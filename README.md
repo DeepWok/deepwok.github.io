@@ -31,17 +31,19 @@ Each year, we run and supervise a number of students for their undergraduate and
 
 Instead of listing the projects here, I found it is generally easier to provide the students with our interested research topics so that interested students can reach out to us. Here are some of the topics and large projects we are interested in continously working on:
 
-* [Project MASE](https://github.com/DeepWok/mase): MASE aims to provide a unified representation for software-defined ML heterogeneous system exploration. We are looking for students who are interested in working on this project with an ideal background and interest in ML System, Efficient ML and ML hardware acceleration.
+* **[Project MASE](https://github.com/DeepWok/mase)**: MASE aims to provide a unified representation for software-defined ML heterogeneous system exploration. We are looking for students who are interested in working on this project with an ideal background and interest in ML System, Efficient ML and ML hardware acceleration.
 
-* Beyond Structure Data: We are interested in working on projects that involve unstructured and multimodal data, such as graphs, hypergraphs and combinational complex. We envision these data types would be the eanbler for the next generation of AI systems that goes beyond simple images and text. And we are looking for students who are interested in working on these projects.
+* **Beyond Structure Data**: We are interested in working on projects that involve unstructured and multimodal data, such as graphs, hypergraphs and combinational complex. We envision these data types would be the eanbler for the next generation of AI systems that goes beyond simple images and text. And we are looking for students who are interested in working on these projects.
 
-* Efficient AI: We are interested in different aspects of efficient AI, including efficient training, efficient inference, efficient model search and efficient model deployment with state-of-the-art GenAI models (eg. language and diffusion models). 
+* **Efficient AI**: We are interested in different aspects of efficient AI, including efficient training, efficient inference, efficient model search and efficient model deployment with state-of-the-art GenAI models (eg. language and diffusion models). 
 
-* System-level AI Safety: with the increasing capability of GenAI models and the growing complexity of AI systems, we are interested in working on projects that focus on the system-level AI safety, including robustness, security, and red-teaming these models to understand new vulnerabilities.
+* **System-level AI Safety**: with the increasing capability of GenAI models and the growing complexity of AI systems, we are interested in working on projects that focus on the system-level AI safety, including robustness, security, and red-teaming these models to understand new vulnerabilities.
 
 I am also happy to host self-proposed projects if it matches the Lab's research interests. Feel free to contact a.zhao@imperial.ac.uk if you would like to do a project with us!
 
-## Past and Current Students
+---
+
+# Past and Current Students
 
 ### Academic Year 2023/2024
 
