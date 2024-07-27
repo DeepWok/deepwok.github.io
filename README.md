@@ -120,14 +120,16 @@ I am also happy to host self-proposed projects if it matches the Lab's research 
 
 ## Year 2024
 
+AI models collapse when trained on recursively generated data; I Shumailov, Z Shumaylov, Y Zhao, N Papernot, R Anderson, Y Gal; Nature 631 (Front Cover)
+
 Enhancing Node Representations for Real-World Complex Networks with Topological Augmentation;
-Xiangyu Zhao, Zehui Li, Mingzhu Shen, Guy-Bart Stan, Pietro Lio, Yiren Zhao; European Conference on Artificial Intelligence (ECAI 2024)
+X Zhao, Z Li, M Shen, G Stan, P Lio, Y Zhao; European Conference on Artificial Intelligence (ECAI 2024)
 
 Unlocking the Global Synergies in Low-Rank Adapters;
-Zixi Zhang, Cheng Zhang, Xitong Gao, Robert D. Mullins, George Anthony Constantinides, Yiren Zhao; (ICML 2024 Workshop ES-FoMo-II)
+Z Zhang, C Zhang, X Gao, R Mullins, G Constantinides, Y Zhao; (ICML 2024 Workshop ES-FoMo-II)
 
 Optimised Grouped-Query Attention Mechanism for Transformers;
-Yuang Chen, Cheng Zhang, Xitong Gao, Robert D. Mullins, George Anthony Constantinides, Yiren Zhao; (ICML 2024 Workshop ES-FoMo-II)
+Y Chen, C Zhang, X Gao, R Mullins, G Constantinides, Y Zhao; (ICML 2024 Workshop ES-FoMo-II)
 
 HASS: Hardware-Aware Sparsity Search for Dataflow DNN Accelerators;
 Z Yu, S Sreeram, K Agrawal, J Wu, A Montgomerie-Corcoran, C Zhang, J Cheng, C Bouganis, Y Zhao; The International Conference on Field-Programmable Logic and Applications (FPL 2024)
