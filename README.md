@@ -18,7 +18,7 @@ The DeepWok Lab, is an ML research group led by [Dr. Aaron Zhao](https://aaron-z
 * [Timon Schneider](https://www.linkedin.com/in/timonschneider/) (PhD Student, co-supervised with [Prof. Tom Ellis](https://www.imperial.ac.uk/people/t.ellis), and [Prof. Guy-Bart Stan](https://gstan.bg-research.cc.ic.ac.uk/welcome.html#Group_members))
 * [Eleanor Clifford](https://eleanor.clifford.lol/) (PhD Student, co-supervised with [Prof. Ross Anderson](https://www.cl.cam.ac.uk/~rja14/) and [Prof. Robert Mullins](https://www.cl.cam.ac.uk/~rdm34/))
 * [Can Xiao]() (PhD Student, co-supervised with [Dr. Jianyi Cheng](https://jianyicheng.github.io/))
-* [Jefforey Tsz Hang Wong](https://uk.linkedin.com/in/tsz-hang-wong-b7206b247?trk=people_directory) (PhD Student, starting in Oct)
+* [Jeffrey Tsz Hang Wong](https://uk.linkedin.com/in/tsz-hang-wong-b7206b247?trk=people_directory) (PhD Student, starting in Oct)
 * [Hanna Foerster](https://uk.linkedin.com/in/hannafoerster) (PhD Student, starting in Oct, co-supervised with [Prof. Robert Mullins](https://www.cl.cam.ac.uk/~rdm34/))
 
 ---
