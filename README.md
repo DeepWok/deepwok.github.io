@@ -120,6 +120,8 @@ I am also happy to host self-proposed projects if it matches the Lab's research 
 
 ## Year 2024
 
+Architectural Neural Backdoors from First Principles; H Langford, I Shumailov, Y Zhao, R Mullins, N Papernot; IEEE Symposium on Security and Privacy 2024 (S&P 2024)
+
 AI models collapse when trained on recursively generated data; I Shumailov, Z Shumaylov, Y Zhao, N Papernot, R Anderson, Y Gal; Nature 631 (Front Cover)
 
 Enhancing Node Representations for Real-World Complex Networks with Topological Augmentation;
