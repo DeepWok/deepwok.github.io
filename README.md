@@ -120,7 +120,9 @@ I am also happy to host self-proposed projects if it matches the Lab's research 
 
 ## Year 2024
 
-Absorb & Escape: Overcoming Single Model Limitations in Generating Heterogeneous Genomic Sequences; Z Li, Y Ni, G Xia, W Beardall, A Das, G Stan, Y Zhao; Conference on Neural Information Processing Systems (NeurIPS 2024)
+GV-Rep: A Large-Scale Dataset for Genetic Variant Representation Learning; Z Li, V Subasi, G Stan, Y Zhao, B Wang; The Thirty-eight Conference on Neural Information Processing Systems Datasets and Benchmarks Track (NeurIPS 2024, Datasets and Benchmarks Track)
+
+Absorb & Escape: Overcoming Single Model Limitations in Generating Heterogeneous Genomic Sequences; Z Li, Y Ni, G Xia, W Beardall, A Das, G Stan, Y Zhao; The Thirty-eight Conference on Neural Information Processing Systems (NeurIPS 2024)
 
 Architectural Neural Backdoors from First Principles; H Langford, I Shumailov, Y Zhao, R Mullins, N Papernot; IEEE Symposium on Security and Privacy 2024 (S&P 2024)
 
