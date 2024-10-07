@@ -124,7 +124,7 @@ GV-Rep: A Large-Scale Dataset for Genetic Variant Representation Learning; Z Li,
 
 Absorb & Escape: Overcoming Single Model Limitations in Generating Heterogeneous Genomic Sequences; Z Li, Y Ni, G Xia, W Beardall, A Das, G Stan, Y Zhao; The Thirty-eight Conference on Neural Information Processing Systems (NeurIPS 2024)
 
-Architectural Neural Backdoors from First Principles; H Langford, I Shumailov, Y Zhao, R Mullins, N Papernot; IEEE Symposium on Security and Privacy 2024 (S&P 2024)
+<!-- Architectural Neural Backdoors from First Principles; H Langford, I Shumailov, Y Zhao, R Mullins, N Papernot; IEEE Symposium on Security and Privacy 2024 (S&P 2024) -->
 
 AI models collapse when trained on recursively generated data; I Shumailov, Z Shumaylov, Y Zhao, N Papernot, R Anderson, Y Gal; Nature 631 (Front Cover)
 
