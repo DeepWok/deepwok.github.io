@@ -120,6 +120,9 @@ I am also happy to host self-proposed projects if it matches the Lab's research 
 
 ## Year 2024
 
+MD-DiT: Step-aware Mixture-of-Depths for Efficient Diffusion Transformers; M Shen, P Chen, P Ye, G Xia, T Chen, C Bouganis, Y Zhao; NeurIPS 2024 Workshop on
+Adaptive Foundation Models (NeurIPS 2024, AFM Workshop)
+
 Architectural Neural Backdoors from First Principles; H Langford, I Shumailov, Y Zhao, R Mullins, N Papernot; IEEE Symposium on Security and Privacy 2024 (S&P 2024)
 
 GV-Rep: A Large-Scale Dataset for Genetic Variant Representation Learning; Z Li, V Subasi, G Stan, Y Zhao, B Wang; The Thirty-eight Conference on Neural Information Processing Systems Datasets and Benchmarks Track (NeurIPS 2024, Datasets and Benchmarks Track)
