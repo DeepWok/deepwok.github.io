@@ -43,79 +43,6 @@ I am also happy to host self-proposed projects if it matches the Lab's research 
 
 ---
 
-# Past and Current Students
-
-### Academic Year 2023/2024
-
-* Henry Li (Summer Research Intern, University of Cambridge)
-* [Ben Zhang](https://uk.linkedin.com/in/ben-zhang-942247254) (Summer Research Intern, University of Cambridge)
-* [Harry Langford](https://www.cst.cam.ac.uk/people/hjel2) (Summer Research Intern, University of Cambridge)
-* [Sanjit Raman](https://uk.linkedin.com/in/sanjit-raman-88b1b91b3) (Summer Research/Teaching Intern, Imperial College London)
-* [Kevin Lau](https://hk.linkedin.com/in/kevin-lau-b61a76182) (Summer Research/Teaching Intern, Imperial College London)
-* [Xiandong Zou](https://www.linkedin.com/in/xiandong-z-502a6a1b0/) (Summer Research Intern, Imperial College London)
-* Roshan Aekote(Summer Research Intern, Imperial College London)
-* Li Wang(MSc project, Imperial College London)
-* Charles Jin(MSc project, Imperial College London)
-* Yichen Li(MSc project, Imperial College London)
-* [Przemyslaw Forys](https://uk.linkedin.com/in/przemyslaw-forys-58598b190/en) (MSc project, Imperial College London)
-* Yuhe Zhang (Final Year Project, Imperial College London)
-* [Bryan Tan](https://uk.linkedin.com/in/bryan-eh-tan?trk=public_profile_browsemap) (Final Year Project, Imperial College London)
-* [Balint Szekely](https://uk.linkedin.com/in/balint-szekely-a796b219a) (Final Year Project, Imperial College London)
-* [Derek Lai](https://www.linkedin.com/in/derek-lai-8078741a7/?originalSubdomain=uk) (Final Year Project, Imperial College London)
-* [Bakhtiar Mohammadzadeh](https://bakhtiarz.github.io/) (Final Year Project, Imperial College London)
-* [TszHang Wong](https://www.linkedin.com/in/tsz-hang-wong-b7206b247/) (Final Year Project, Imperial College London)
-* [Ben Zhang](https://uk.linkedin.com/in/ben-zhang-942247254) (Part II Project, University of Cambridge)
-* [Bradley Chen](https://www.linkedin.com/in/yuang-chen-15b6a5224/?originalSubdomain=uk) (Part II Project, University of Cambridge)
-* [Kate Liang](https://www.linkedin.com/in/katelkq/?originalSubdomain=uk) (Part II Project, University of Cambridge)
-
-### Academic Year 2022/2023
-
-* [David Gyulamiryan](https://uk.linkedin.com/in/davidgyulamiryan) (Summer Research Intern, University of Cambridge)
-* [Eduard Burlacu](https://www.linkedin.com/in/eduard-burlacu-168860223?originalSubdomain=uk) (Summer Research Intern, University of Cambridge)
-* [Harry Langford](https://www.cst.cam.ac.uk/people/hjel2) (Summer Research Intern, University of Cambridge)
-* [Ben Zhang](https://uk.linkedin.com/in/ben-zhang-942247254) (Summer Research Intern, University of Cambridge)
-* [Leah He](https://uk.linkedin.com/in/leah-he-65722525b) (Summer Research Intern, University of Cambridge)
-* [Junyi Wu](https://uk.linkedin.com/in/junyi-wu-a83133249) (Summer Research Intern, Imperial College London)
-* [Harry Ni](https://www.linkedin.com/in/yuhao-ni/) (Summer Research Intern, Imperial College London)
-* [Xiandong Zou](https://www.linkedin.com/in/xiandong-z-502a6a1b0/) (Summer Research Intern, Imperial College London)
-* [Anthony Bolton](https://www.linkedin.com/in/anthony-bolton-040883245/) (Summer Research Intern, Imperial College London)
-* [Aaron Thomas](https://www.linkedin.com/in/aaron-thomas-029a261b5/) (Summer Research Intern, Imperial College London)
-* [Sudarshan Sreeram](https://uk.linkedin.com/in/sudarshan-sreeram) (Summer Research Intern, Imperial College London)
-* [Diego Van Overberghe](https://www.linkedin.com/in/diegovano/) (Summer Research Intern, Imperial College London)
-* [Bryan Tan](https://uk.linkedin.com/in/bryan-tan-12a39a20b) (Summer Research Intern, Imperial College London)
-* [TszHang Wong](https://www.linkedin.com/in/tsz-hang-wong-b7206b247/) (Summer Research Intern, Imperial College London)
-* [Aman Vernekar](https://uk.linkedin.com/in/aman-vernekar) (Summer Research Intern, University of Cambridge)
-* [Eduard Burlacu](https://www.linkedin.com/in/eduard-burlacu-168860223/?originalSubdomain=uk) (Summer Research Intern, University of Cambridge)
-* [Harry Langford](https://www.cst.cam.ac.uk/people/hjel2) (Summer Research Intern, University of Cambridge)
-* [Haoliang Shang](https://ch.linkedin.com/in/haoliang-shang-1544b1116) (BEng Project, Imperial College London / ETH Zurich)
-* [Jacky Choi](https://www.linkedin.com/in/jacky-choi-12a23b228/?originalSubdomain=ch) (BEng Project, Imperial College London / ETH Zurich)
-* Can Xiao (MSc Project, Imperial College London)
-* Sheng Luo (MSc Project, Imperial College London)
-* Chuiyu Wang (MSc Project, Imperial College London)
-* [Pedro Gimense](https://www.pedrogimenes.co.uk/) (Final Year Project, Imperial College London)
-* Nickolaos Ilioudis (Final Year Project, Imperial College London)
-* [Issa Bqain](https://issabqain.com/) (Final Year Project, Imperial College London)
-* [Tobias Cook](https://www.linkedin.com/in/tobias-cook-542b10250/) (Final Year Project, Imperial College London)
-* [Peter Barabas](https://www.linkedin.com/in/peter-barabas-195395230/?trk=people-guest_people_search-card&originalSubdomain=uk) (Final Year Project, Imperial College London)
-* [Ritvik Shyam](https://ritvikshyam19.wixsite.com/ritvik-shyam)(Final Year Project, Imperial College London)
-* [Harry Knighton](https://www.linkedin.com/in/harry-knighton-971452223/?originalSubdomain=uk) (Part II project, University of Cambridge)
-* [Fredrik Ekholm](https://www.linkedin.com/in/fredrik-ekholm-503711146/?originalSubdomain=se) (Part II project, University of Cambridge)
-* [Thomas Yuan](https://hk.linkedin.com/in/thomasyuan1) (Part II project, University of Cambridge)
-* [Kyra Zhou](https://uk.linkedin.com/in/kyra-zhou) (Part II project, University of Cambridge)
-
-### Academic Year 2021/2022
-
-* [Eleanor Clifford](https://eleanor.clifford.lol/) (Summer Research Intern, from University of Cambridge)
-* [Joseph Rance](https://www.cst.cam.ac.uk/people/jr879) (Summer Research Intern, from University of Cambridge)
-* [Victor Zhao](https://victorzxy.github.io/) (Summer Research Intern, from University of Cambridge)
-* [Skye Purchase](https://www.cst.cam.ac.uk/people/atp45) (Summer Research Intern, from University of Cambridge)
-* [Cindy Wu](<https://www.linkedin.com/in/cindywux/>) (Summer Research Intern, from University of Cambridge)
-* [Guo Yang](https://uk.linkedin.com/in/guo-yang-1b492a21b) (Summer Research Intern, from University of Cambridge)
-* [Prisha Satwani](https://uk.linkedin.com/in/prishasatwani) (Summer Research Intern, from LSE)
-* [Jason Brown](https://gitlab.com/jrbrown) (Summer Research Intern, from University of Cambridge)
-
----
-
 # Publication
 
 ## Year 2024
@@ -225,3 +152,77 @@ Advances in Neural Information Processing Systems 35 (NeurIPS 2022)
 DAdaQuant: Doubly-adaptive quantization for communication-efficient Federated Learning;
 R Hönig, Y Zhao, R Mullins;
 International Conference on Machine Learning (ICML 2022)
+
+---
+
+# Past and Current Students
+
+### Academic Year 2023/2024
+
+* Henry Li (Summer Research Intern, University of Cambridge)
+* [Ben Zhang](https://uk.linkedin.com/in/ben-zhang-942247254) (Summer Research Intern, University of Cambridge)
+* [Harry Langford](https://www.cst.cam.ac.uk/people/hjel2) (Summer Research Intern, University of Cambridge)
+* [Sanjit Raman](https://uk.linkedin.com/in/sanjit-raman-88b1b91b3) (Summer Research/Teaching Intern, Imperial College London)
+* [Kevin Lau](https://hk.linkedin.com/in/kevin-lau-b61a76182) (Summer Research/Teaching Intern, Imperial College London)
+* [Xiandong Zou](https://www.linkedin.com/in/xiandong-z-502a6a1b0/) (Summer Research Intern, Imperial College London)
+* Roshan Aekote(Summer Research Intern, Imperial College London)
+* Li Wang(MSc project, Imperial College London)
+* Charles Jin(MSc project, Imperial College London)
+* Yichen Li(MSc project, Imperial College London)
+* [Przemyslaw Forys](https://uk.linkedin.com/in/przemyslaw-forys-58598b190/en) (MSc project, Imperial College London)
+* Yuhe Zhang (Final Year Project, Imperial College London)
+* [Bryan Tan](https://uk.linkedin.com/in/bryan-eh-tan?trk=public_profile_browsemap) (Final Year Project, Imperial College London)
+* [Balint Szekely](https://uk.linkedin.com/in/balint-szekely-a796b219a) (Final Year Project, Imperial College London)
+* [Derek Lai](https://www.linkedin.com/in/derek-lai-8078741a7/?originalSubdomain=uk) (Final Year Project, Imperial College London)
+* [Bakhtiar Mohammadzadeh](https://bakhtiarz.github.io/) (Final Year Project, Imperial College London)
+* [TszHang Wong](https://www.linkedin.com/in/tsz-hang-wong-b7206b247/) (Final Year Project, Imperial College London)
+* [Ben Zhang](https://uk.linkedin.com/in/ben-zhang-942247254) (Part II Project, University of Cambridge)
+* [Bradley Chen](https://www.linkedin.com/in/yuang-chen-15b6a5224/?originalSubdomain=uk) (Part II Project, University of Cambridge)
+* [Kate Liang](https://www.linkedin.com/in/katelkq/?originalSubdomain=uk) (Part II Project, University of Cambridge)
+
+### Academic Year 2022/2023
+
+* [David Gyulamiryan](https://uk.linkedin.com/in/davidgyulamiryan) (Summer Research Intern, University of Cambridge)
+* [Eduard Burlacu](https://www.linkedin.com/in/eduard-burlacu-168860223?originalSubdomain=uk) (Summer Research Intern, University of Cambridge)
+* [Harry Langford](https://www.cst.cam.ac.uk/people/hjel2) (Summer Research Intern, University of Cambridge)
+* [Ben Zhang](https://uk.linkedin.com/in/ben-zhang-942247254) (Summer Research Intern, University of Cambridge)
+* [Leah He](https://uk.linkedin.com/in/leah-he-65722525b) (Summer Research Intern, University of Cambridge)
+* [Junyi Wu](https://uk.linkedin.com/in/junyi-wu-a83133249) (Summer Research Intern, Imperial College London)
+* [Harry Ni](https://www.linkedin.com/in/yuhao-ni/) (Summer Research Intern, Imperial College London)
+* [Xiandong Zou](https://www.linkedin.com/in/xiandong-z-502a6a1b0/) (Summer Research Intern, Imperial College London)
+* [Anthony Bolton](https://www.linkedin.com/in/anthony-bolton-040883245/) (Summer Research Intern, Imperial College London)
+* [Aaron Thomas](https://www.linkedin.com/in/aaron-thomas-029a261b5/) (Summer Research Intern, Imperial College London)
+* [Sudarshan Sreeram](https://uk.linkedin.com/in/sudarshan-sreeram) (Summer Research Intern, Imperial College London)
+* [Diego Van Overberghe](https://www.linkedin.com/in/diegovano/) (Summer Research Intern, Imperial College London)
+* [Bryan Tan](https://uk.linkedin.com/in/bryan-tan-12a39a20b) (Summer Research Intern, Imperial College London)
+* [TszHang Wong](https://www.linkedin.com/in/tsz-hang-wong-b7206b247/) (Summer Research Intern, Imperial College London)
+* [Aman Vernekar](https://uk.linkedin.com/in/aman-vernekar) (Summer Research Intern, University of Cambridge)
+* [Eduard Burlacu](https://www.linkedin.com/in/eduard-burlacu-168860223/?originalSubdomain=uk) (Summer Research Intern, University of Cambridge)
+* [Harry Langford](https://www.cst.cam.ac.uk/people/hjel2) (Summer Research Intern, University of Cambridge)
+* [Haoliang Shang](https://ch.linkedin.com/in/haoliang-shang-1544b1116) (BEng Project, Imperial College London / ETH Zurich)
+* [Jacky Choi](https://www.linkedin.com/in/jacky-choi-12a23b228/?originalSubdomain=ch) (BEng Project, Imperial College London / ETH Zurich)
+* Can Xiao (MSc Project, Imperial College London)
+* Sheng Luo (MSc Project, Imperial College London)
+* Chuiyu Wang (MSc Project, Imperial College London)
+* [Pedro Gimense](https://www.pedrogimenes.co.uk/) (Final Year Project, Imperial College London)
+* Nickolaos Ilioudis (Final Year Project, Imperial College London)
+* [Issa Bqain](https://issabqain.com/) (Final Year Project, Imperial College London)
+* [Tobias Cook](https://www.linkedin.com/in/tobias-cook-542b10250/) (Final Year Project, Imperial College London)
+* [Peter Barabas](https://www.linkedin.com/in/peter-barabas-195395230/?trk=people-guest_people_search-card&originalSubdomain=uk) (Final Year Project, Imperial College London)
+* [Ritvik Shyam](https://ritvikshyam19.wixsite.com/ritvik-shyam)(Final Year Project, Imperial College London)
+* [Harry Knighton](https://www.linkedin.com/in/harry-knighton-971452223/?originalSubdomain=uk) (Part II project, University of Cambridge)
+* [Fredrik Ekholm](https://www.linkedin.com/in/fredrik-ekholm-503711146/?originalSubdomain=se) (Part II project, University of Cambridge)
+* [Thomas Yuan](https://hk.linkedin.com/in/thomasyuan1) (Part II project, University of Cambridge)
+* [Kyra Zhou](https://uk.linkedin.com/in/kyra-zhou) (Part II project, University of Cambridge)
+
+### Academic Year 2021/2022
+
+* [Eleanor Clifford](https://eleanor.clifford.lol/) (Summer Research Intern, from University of Cambridge)
+* [Joseph Rance](https://www.cst.cam.ac.uk/people/jr879) (Summer Research Intern, from University of Cambridge)
+* [Victor Zhao](https://victorzxy.github.io/) (Summer Research Intern, from University of Cambridge)
+* [Skye Purchase](https://www.cst.cam.ac.uk/people/atp45) (Summer Research Intern, from University of Cambridge)
+* [Cindy Wu](<https://www.linkedin.com/in/cindywux/>) (Summer Research Intern, from University of Cambridge)
+* [Guo Yang](https://uk.linkedin.com/in/guo-yang-1b492a21b) (Summer Research Intern, from University of Cambridge)
+* [Prisha Satwani](https://uk.linkedin.com/in/prishasatwani) (Summer Research Intern, from LSE)
+* [Jason Brown](https://gitlab.com/jrbrown) (Summer Research Intern, from University of Cambridge)
+
