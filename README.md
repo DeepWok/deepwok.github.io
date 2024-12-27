@@ -45,30 +45,45 @@ I am also happy to host self-proposed projects if it matches the Lab's research 
 
 # Publication
 
+## Year 2025
+
+Architectural Neural Backdoors from First Principles; 
+H Langford, I Shumailov, Y Zhao, R Mullins, N Papernot;
+IEEE Symposium on Security and Privacy 2024 (S&P 2025)
+
 ## Year 2024
 
-MD-DiT: Step-aware Mixture-of-Depths for Efficient Diffusion Transformers; M Shen, P Chen, P Ye, G Xia, T Chen, C Bouganis, Y Zhao; NeurIPS 2024 Workshop on
-Adaptive Foundation Models (NeurIPS 2024, AFM Workshop)
+MD-DiT: Step-aware Mixture-of-Depths for Efficient Diffusion Transformers;
+M Shen, P Chen, P Ye, G Xia, T Chen, C Bouganis, Y Zhao; 
+NeurIPS 2024 Workshop on Adaptive Foundation Models (NeurIPS 2024, AFM Workshop)
 
-Architectural Neural Backdoors from First Principles; H Langford, I Shumailov, Y Zhao, R Mullins, N Papernot; IEEE Symposium on Security and Privacy 2024 (S&P 2024)
+GV-Rep: A Large-Scale Dataset for Genetic Variant Representation Learning; 
+Z Li, V Subasi, G Stan, Y Zhao, B Wang; 
+The Thirty-eight Conference on Neural Information Processing Systems Datasets and Benchmarks Track (NeurIPS 2024, Datasets and Benchmarks Track)
 
-GV-Rep: A Large-Scale Dataset for Genetic Variant Representation Learning; Z Li, V Subasi, G Stan, Y Zhao, B Wang; The Thirty-eight Conference on Neural Information Processing Systems Datasets and Benchmarks Track (NeurIPS 2024, Datasets and Benchmarks Track)
+Absorb & Escape: Overcoming Single Model Limitations in Generating Heterogeneous Genomic Sequences; 
+Z Li, Y Ni, G Xia, W Beardall, A Das, G Stan, Y Zhao; 
+The Thirty-eight Conference on Neural Information Processing Systems (NeurIPS 2024)
 
-Absorb & Escape: Overcoming Single Model Limitations in Generating Heterogeneous Genomic Sequences; Z Li, Y Ni, G Xia, W Beardall, A Das, G Stan, Y Zhao; The Thirty-eight Conference on Neural Information Processing Systems (NeurIPS 2024)
-
-AI models collapse when trained on recursively generated data; I Shumailov, Z Shumaylov, Y Zhao, N Papernot, R Anderson, Y Gal; Nature 631 (Front Cover)
+AI models collapse when trained on recursively generated data;
+I Shumailov, Z Shumaylov, Y Zhao, N Papernot, R Anderson, Y Gal; 
+Nature 631 (Front Cover)
 
 Enhancing Node Representations for Real-World Complex Networks with Topological Augmentation;
-X Zhao, Z Li, M Shen, G Stan, P Lio, Y Zhao; European Conference on Artificial Intelligence (ECAI 2024)
+X Zhao, Z Li, M Shen, G Stan, P Lio, Y Zhao; 
+European Conference on Artificial Intelligence (ECAI 2024)
 
 Unlocking the Global Synergies in Low-Rank Adapters;
-Z Zhang, C Zhang, X Gao, R Mullins, G Constantinides, Y Zhao; (ICML 2024 Workshop ES-FoMo-II)
+Z Zhang, C Zhang, X Gao, R Mullins, G Constantinides, Y Zhao; 
+ICML 2024 Workshop ES-FoMo-II
 
 Optimised Grouped-Query Attention Mechanism for Transformers;
-Y Chen, C Zhang, X Gao, R Mullins, G Constantinides, Y Zhao; (ICML 2024 Workshop ES-FoMo-II)
+Y Chen, C Zhang, X Gao, R Mullins, G Constantinides, Y Zhao; 
+ICML 2024 Workshop ES-FoMo-II
 
 HASS: Hardware-Aware Sparsity Search for Dataflow DNN Accelerators;
-Z Yu, S Sreeram, K Agrawal, J Wu, A Montgomerie-Corcoran, C Zhang, J Cheng, C Bouganis, Y Zhao; The International Conference on Field-Programmable Logic and Applications (FPL 2024)
+Z Yu, S Sreeram, K Agrawal, J Wu, A Montgomerie-Corcoran, C Zhang, J Cheng, C Bouganis, Y Zhao; 
+The International Conference on Field-Programmable Logic and Applications (FPL 2024)
 
 LQER: Low-Rank Quantization Error Reconstruction for LLMs;
 C Zhang, J Cheng, G Constantinides, Y Zhao;
@@ -157,7 +172,19 @@ International Conference on Machine Learning (ICML 2022)
 
 # Past and Current Students
 
-### Academic Year 2023/2024
+### Academic Year 2024-2024
+
+* [Ben Zhang](https://uk.linkedin.com/in/ben-zhang-942247254) (Part III Project, University of Cambridge)
+* [Adam Low]() (MSc Project, Imperial College London)
+* [Yulin Lin]() (MSc Project, Imperial College London)
+* [Zixing Bao]() (MSc Project, Imperial College London)
+* [Junwei Wang]() (MSc Project, Imperial College London)
+* [Junyi Wu](https://uk.linkedin.com/in/junyi-wu-a83133249) (Final Year Project, Imperial College London)
+* [Harry Ni](https://www.linkedin.com/in/yuhao-ni/) (Final Year Project, Imperial College London)
+* [Edward Xiao]() (Final Year Project, Imperial College London)
+* [Ratul Shek]() (Final Year Project, Imperial College London)
+
+### Academic Year 2023-2024
 
 * Henry Li (Summer Research Intern, University of Cambridge)
 * [Ben Zhang](https://uk.linkedin.com/in/ben-zhang-942247254) (Summer Research Intern, University of Cambridge)
@@ -180,7 +207,7 @@ International Conference on Machine Learning (ICML 2022)
 * [Bradley Chen](https://www.linkedin.com/in/yuang-chen-15b6a5224/?originalSubdomain=uk) (Part II Project, University of Cambridge)
 * [Kate Liang](https://www.linkedin.com/in/katelkq/?originalSubdomain=uk) (Part II Project, University of Cambridge)
 
-### Academic Year 2022/2023
+### Academic Year 2022-2023
 
 * [David Gyulamiryan](https://uk.linkedin.com/in/davidgyulamiryan) (Summer Research Intern, University of Cambridge)
 * [Eduard Burlacu](https://www.linkedin.com/in/eduard-burlacu-168860223?originalSubdomain=uk) (Summer Research Intern, University of Cambridge)
