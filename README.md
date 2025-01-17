@@ -10,6 +10,7 @@ The DeepWok Lab, is an ML research group led by [Dr. Aaron Zhao](https://aaron-z
 # Members
 
 * [Aaron Zhao](https://aaron-zhao123.github.io/)  (Faculty, PI)
+* [Gary Guo](https://garyguo.net/)  (PostDoc, Part-time)
 * [Cheng Zhang](https://chengzhang-98.github.io/blog/) (PhD Student, co-supervised with [Prof. George Constantinides](https://cas.ee.ic.ac.uk/people/gac1/))
 * [Victor Zhao](https://victorzxy.github.io/) (PhD Student, co-supervised with [Prof. Pietro Lio](https://www.cl.cam.ac.uk/~pl219/))
 * [Zehui Li](https://zehui127.github.io/) (PhD Student, co-supervised with [Prof. Guy-Bart Stan](https://gstan.bg-research.cc.ic.ac.uk/welcome.html#Group_members))
@@ -20,6 +21,7 @@ The DeepWok Lab, is an ML research group led by [Dr. Aaron Zhao](https://aaron-z
 * [Can Xiao](https://uk.linkedin.com/in/cano-xiao-609a33299) (PhD Student, co-supervised with [Dr. Jianyi Cheng](https://jianyicheng.github.io/))
 * [Jeffrey Tsz Hang Wong](https://uk.linkedin.com/in/tsz-hang-wong-b7206b247?trk=people_directory) (PhD Student, co-supervised with [Prof. Wayne Luk](https://profiles.imperial.ac.uk/w.luk))
 * [Hanna Foerster](https://uk.linkedin.com/in/hannafoerster) (PhD Student, co-supervised with [Prof. Robert Mullins](https://www.cl.cam.ac.uk/~rdm34/))
+* [Przemyslaw Forys](https://uk.linkedin.com/in/przemyslaw-forys-58598b190/en) (PhD Student, co-supervised with [Prof. Wayne Luk](https://profiles.imperial.ac.uk/w.luk))
 
 ---
 
