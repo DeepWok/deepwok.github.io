@@ -63,7 +63,7 @@ E Clifford, A Saravanan, H Langford, C Zhang, Y Zhao, R Mullins, I Shumailov, J 
 
 Architectural Neural Backdoors from First Principles; 
 H Langford, I Shumailov, Y Zhao, R Mullins, N Papernot;
-IEEE Symposium on Security and Privacy 2024 (S&P 2025)
+IEEE Symposium on Security and Privacy 2025 (S&P 2025)
 
 ## Year 2024
 
