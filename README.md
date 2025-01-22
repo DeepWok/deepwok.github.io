@@ -49,8 +49,16 @@ I am also happy to host self-proposed projects if it matches the Lab's research 
 
 ## Year 2025
 
+Cached Multi-Lora Composition for Multi-Concept Image Generation;
+X Zou, M Shen, C Bouganis, Y Zhao (ICLR 2025)
+
+QERA: an Analytical Framework for Quantization Error Reconstruction;
+C Zhang, J TH Wong, C Xiao, G Constantinides, Y Zhao
+2025 International Conference on Learning Representations (ICLR 2025)
+
 Locking Machine Learning Models into Hardware;
-E Clifford, A Saravanan, H Langford, C Zhang, Y Zhao, R Mullins, I Shumailov, J Hayes (SatML 2025)
+E Clifford, A Saravanan, H Langford, C Zhang, Y Zhao, R Mullins, I Shumailov, J Hayes;
+3rd IEEE Conference on Secure and Trustworthy Machine Learning (SatML 2025)
 
 Architectural Neural Backdoors from First Principles; 
 H Langford, I Shumailov, Y Zhao, R Mullins, N Papernot;
