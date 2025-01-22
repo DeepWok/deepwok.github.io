@@ -50,10 +50,11 @@ I am also happy to host self-proposed projects if it matches the Lab's research 
 ## Year 2025
 
 Cached Multi-Lora Composition for Multi-Concept Image Generation;
-X Zou, M Shen, C Bouganis, Y Zhao (ICLR 2025)
+X Zou, M Shen, C Bouganis, Y Zhao;
+2025 International Conference on Learning Representations (ICLR 2025)
 
 QERA: an Analytical Framework for Quantization Error Reconstruction;
-C Zhang, J TH Wong, C Xiao, G Constantinides, Y Zhao
+C Zhang, J TH Wong, C Xiao, G Constantinides, Y Zhao;
 2025 International Conference on Learning Representations (ICLR 2025)
 
 Locking Machine Learning Models into Hardware;
