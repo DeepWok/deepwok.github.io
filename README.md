@@ -15,7 +15,7 @@ The DeepWok Lab, is an ML research group led by [Dr. Aaron Zhao](https://aaron-z
 * [Victor Zhao](https://victorzxy.github.io/) (PhD Student, co-supervised with [Prof. Pietro Lio](https://www.cl.cam.ac.uk/~pl219/))
 * [Zehui Li](https://zehui127.github.io/) (PhD Student, co-supervised with [Prof. Guy-Bart Stan](https://gstan.bg-research.cc.ic.ac.uk/welcome.html#Group_members))
 * [Mingzhu Shen](https://scholar.google.com/citations?user=o7vrw6IAAAAJ&hl=en) (PhD Student, co-supervised with [Prof. Christos Bouganis](https://www.imperial.ac.uk/people/christos-savvas.bouganis))
-* [Pedro Gimense](https://www.pedrogimenes.co.uk/) (PhD Student, co-supervised with [Prof. George Constantinides](https://cas.ee.ic.ac.uk/people/gac1/))
+* [Pedro Gimense](https://pgimenes.github.io/) (PhD Student, co-supervised with [Prof. George Constantinides](https://cas.ee.ic.ac.uk/people/gac1/))
 * [Timon Schneider](https://www.linkedin.com/in/timonschneider/) (PhD Student, co-supervised with [Prof. Tom Ellis](https://www.imperial.ac.uk/people/t.ellis), and [Prof. Guy-Bart Stan](https://gstan.bg-research.cc.ic.ac.uk/welcome.html#Group_members))
 * [Eleanor Clifford](https://eleanor.clifford.lol/) (PhD Student, co-supervised with [Prof. Ross Anderson](https://www.cl.cam.ac.uk/~rja14/) and [Prof. Robert Mullins](https://www.cl.cam.ac.uk/~rdm34/))
 * [Can Xiao](https://uk.linkedin.com/in/cano-xiao-609a33299) (PhD Student, co-supervised with [Dr. Jianyi Cheng](https://jianyicheng.github.io/))
@@ -48,6 +48,10 @@ I am also happy to host self-proposed projects if it matches the Lab's research 
 # Publication
 
 ## Year 2025
+
+AMPLE: Event-Driven Accelerator for Mixed-Precision Inference  of Graph Neural Networks;
+P Gimense, G Constantinides, Y Zhao;
+The 5th Workshop on Machine Learning and Systems (EuroMLSys 2025)
 
 Cached Multi-Lora Composition for Multi-Concept Image Generation;
 X Zou, M Shen, C Bouganis, Y Zhao;
