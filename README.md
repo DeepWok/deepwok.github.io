@@ -22,6 +22,7 @@ The DeepWok Lab, is an ML research group led by [Dr. Aaron Zhao](https://aaron-z
 * [Jeffrey Tsz Hang Wong](https://uk.linkedin.com/in/tsz-hang-wong-b7206b247?trk=people_directory) (PhD Student, co-supervised with [Prof. Wayne Luk](https://profiles.imperial.ac.uk/w.luk))
 * [Hanna Foerster](https://uk.linkedin.com/in/hannafoerster) (PhD Student, co-supervised with [Prof. Robert Mullins](https://www.cl.cam.ac.uk/~rdm34/))
 * [Przemyslaw Forys](https://uk.linkedin.com/in/przemyslaw-forys-58598b190/en) (PhD Student, co-supervised with [Prof. Wayne Luk](https://profiles.imperial.ac.uk/w.luk))
+* [Ying Yu]() (PhD Student, co-supervised with [Dr. Fei Teng](https://profiles.imperial.ac.uk/f.teng))
 
 ---
 
@@ -48,6 +49,14 @@ I am also happy to host self-proposed projects if it matches the Lab's research 
 # Publication
 
 ## Year 2025
+
+LLM4DV: Using Large Language Models for Hardware Test Stimuli Generation;
+Z Zhang, B Szekely, P Gimenes, G Chadwick, H McNally, J Cheng, R Mullins, Y Zhao;
+The 33rd IEEE International Symposium on Field-Programmable Custom Computing Machines (FCCM 2025, Short paper)
+
+Microscaling Vision Transformers on FPGAs;
+C Xiao, J Cheng, Y Zhao;
+The 33rd IEEE International Symposium on Field-Programmable Custom Computing Machines (FCCM 2025, Poster)
 
 AMPLE: Event-Driven Accelerator for Mixed-Precision Inference  of Graph Neural Networks;
 P Gimense, G Constantinides, Y Zhao;
