@@ -16,13 +16,15 @@ The DeepWok Lab, is an ML research group led by [Dr. Aaron Zhao](https://aaron-z
 * [Zehui Li](https://zehui127.github.io/) (PhD Student, co-supervised with [Prof. Guy-Bart Stan](https://gstan.bg-research.cc.ic.ac.uk/welcome.html#Group_members)(Primary supervisor))
 * [Mingzhu Shen](https://scholar.google.com/citations?user=o7vrw6IAAAAJ&hl=en) (PhD Student, co-supervised with [Prof. Christos Bouganis](https://www.imperial.ac.uk/people/christos-savvas.bouganis))
 * [Pedro Gimense](https://pgimenes.github.io/) (PhD Student, co-supervised with [Prof. George Constantinides](https://cas.ee.ic.ac.uk/people/gac1/))
-* [Timon Schneider](https://www.linkedin.com/in/timonschneider/) (PhD Student, co-supervised with [Prof. Tom Ellis](https://www.imperial.ac.uk/people/t.ellis)(Primary supervisor), and [Prof. Guy-Bart Stan](https://gstan.bg-research.cc.ic.ac.uk/welcome.html#Group_members))
+* [Timon Schneider](https://www.linkedin.com/in/timonschneider/) (PhD Student, co-supervised with [Prof. Tom Ellis*](https://www.imperial.ac.uk/people/t.ellis), and [Prof. Guy-Bart Stan](https://gstan.bg-research.cc.ic.ac.uk/welcome.html#Group_members))
 * [Eleanor Clifford](https://eleanor.clifford.lol/) (PhD Student, co-supervised with [Prof. Ross Anderson](https://www.cl.cam.ac.uk/~rja14/) and [Prof. Robert Mullins](https://www.cl.cam.ac.uk/~rdm34/))
 * [Can Xiao](https://uk.linkedin.com/in/cano-xiao-609a33299) (PhD Student, co-supervised with [Dr. Jianyi Cheng](https://jianyicheng.github.io/))
 * [Jeffrey Tsz Hang Wong](https://uk.linkedin.com/in/tsz-hang-wong-b7206b247?trk=people_directory) (PhD Student, co-supervised with [Prof. Wayne Luk](https://profiles.imperial.ac.uk/w.luk))
-* [Hanna Foerster](https://uk.linkedin.com/in/hannafoerster) (PhD Student, co-supervised with [Prof. Robert Mullins](https://www.cl.cam.ac.uk/~rdm34/)(Primary supervisor))
+* [Hanna Foerster](https://uk.linkedin.com/in/hannafoerster) (PhD Student, co-supervised with [Prof. Robert Mullins*](https://www.cl.cam.ac.uk/~rdm34/))
 * [Przemyslaw Forys](https://uk.linkedin.com/in/przemyslaw-forys-58598b190/en) (PhD Student, co-supervised with [Prof. Wayne Luk](https://profiles.imperial.ac.uk/w.luk))
-* [Ying Yu]() (PhD Student, co-supervised with [Dr. Fei Teng](https://profiles.imperial.ac.uk/f.teng)(Primary supervisor))
+* [Ying Yu]() (PhD Student, co-supervised with [Dr. Fei Teng*](https://profiles.imperial.ac.uk/f.teng))
+
+* indicates the primary supervisor, if not indicated, Aaron Zhao is the primary supervisor.
 
 ---
 
