@@ -25,7 +25,7 @@ The DeepWok Lab, is an ML research group led by [Dr. Aaron Zhao](https://aaron-z
 * [Przemyslaw Forys](https://uk.linkedin.com/in/przemyslaw-forys-58598b190/en) (PhD Student, co-supervised with [Prof. Wayne Luk](https://profiles.imperial.ac.uk/w.luk))
 * [Ying Yu]() (PhD Student, co-supervised with [Dr. Fei Teng*](https://profiles.imperial.ac.uk/f.teng))
 
-* indicates the primary supervisor, if not indicated, Aaron Zhao is the primary supervisor.
+\* indicates the primary supervisor, if not indicated, Aaron Zhao is the primary supervisor.
 
 ---
 
