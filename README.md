@@ -33,9 +33,9 @@ The DeepWok Lab, is an ML research group led by [Dr. Aaron Zhao](https://aaron-z
 
 Each year, we run and supervise a number of students for their undergraduate and master projects at Imperial College London and the University of Cambridge. We also run a great number of summer research internships.
 
-**We finished hiring for the 2024 summer, please only contact me for 2025 MEng/Mphil/MSc/Part II/Part III/Intern projets**
+**We finished hiring for the 2025 summer, please only contact me for 2025-2026 MEng/Mphil/MSc/Part II/Part III/Intern projets**
 
-Instead of listing the projects here, I found it is generally easier to provide the students with our interested research topics so that interested students can reach out to us. Here are some of the topics and large projects we are interested in continously working on:
+Instead of listing the projects here, I found it is generally easier to provide the students with our interested research topics so that interested students can reach out to us. Here are some of the topics and large projects we are working on:
 
 * **[Project MASE](https://github.com/DeepWok/mase)**: MASE aims to provide a unified representation for software-defined ML heterogeneous system exploration. We are looking for students who are interested in working on this project with an ideal background and interest in ML System, Efficient ML and ML hardware acceleration.
 
@@ -45,7 +45,8 @@ Instead of listing the projects here, I found it is generally easier to provide 
 
 * **System-level AI Safety**: with the increasing capability of GenAI models and the growing complexity of AI systems, we are interested in working on projects that focus on the system-level AI safety, including robustness, security, and red-teaming these models to understand new vulnerabilities.
 
-I am also happy to host self-proposed projects if it matches the Lab's research interests. Feel free to contact a.zhao@imperial.ac.uk if you would like to do a project with us!
+I am also happy to host self-proposed projects if it matches the our research interests. 
+Feel free to contact a.zhao@imperial.ac.uk if you would like to do a project with us!
 
 ---
 
