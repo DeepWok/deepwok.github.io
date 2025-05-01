@@ -54,6 +54,10 @@ Feel free to contact a.zhao@imperial.ac.uk if you would like to do a project wit
 
 ## Year 2025
 
+Hardware and Software Platform Inference;
+C Zhang, H Foerster, R Mullins, Y Zhao, I Shumailov;
+International Conference on Machine Learning (ICML 2025)
+
 LLM4DV: Using Large Language Models for Hardware Test Stimuli Generation;
 Z Zhang, B Szekely, P Gimenes, G Chadwick, H McNally, J Cheng, R Mullins, Y Zhao;
 The 33rd IEEE International Symposium on Field-Programmable Custom Computing Machines (FCCM 2025, Short paper)
