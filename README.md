@@ -12,6 +12,7 @@ The DeepWok Lab, is an ML research group led by [Dr. Aaron Zhao](https://aaron-z
 * [Aaron Zhao](https://aaron-zhao123.github.io/)  (Faculty, PI)
 * [Binglei Lou](https://au.linkedin.com/in/bingleilou)  (PostDoc)
 * [Gary Guo](https://garyguo.net/)  (PostDoc, Part-time)
+* [Emma Fromant](https://uk.linkedin.com/in/emma-fromant-5b8537b8) (Project Manager)
 * [Cheng Zhang](https://chengzhang-98.github.io/blog/) (PhD Student, co-supervised with [Prof. George Constantinides](https://cas.ee.ic.ac.uk/people/gac1/))
 * [Victor Zhao](https://victorzxy.github.io/) (PhD Student, co-supervised with [Prof. Pietro Lio](https://www.cl.cam.ac.uk/~pl219/))
 * [Zehui Li](https://zehui127.github.io/) (PhD Student, co-supervised with [Prof. Guy-Bart Stan*](https://gstan.bg-research.cc.ic.ac.uk/welcome.html#Group_members))
