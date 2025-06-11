@@ -55,6 +55,14 @@ Feel free to contact a.zhao@imperial.ac.uk if you would like to do a project wit
 
 ## Year 2025
 
+Refining Salience-Aware Sparse Fine-Tuning Strategies for Language Models
+X Liu, A Thomas, C Zhang, J Cheng, Y Zhao, X Gao;
+The 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025)
+
+Refining Datapath for Microscaling ViTs
+C Xiao, J Cheng, Y Zhao;
+35th International Conference on Field-Programmable Logic and Applications (FPL 2025)
+
 Hardware and Software Platform Inference;
 C Zhang, H Foerster, R Mullins, Y Zhao, I Shumailov;
 International Conference on Machine Learning (ICML 2025)
