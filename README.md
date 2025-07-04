@@ -26,6 +26,7 @@ The DeepWok Lab, is an ML research group led by [Dr. Aaron Zhao](https://aaron-z
 * [Hanna Foerster](https://uk.linkedin.com/in/hannafoerster) (PhD Student, co-supervised with [Prof. Robert Mullins*](https://www.cl.cam.ac.uk/~rdm34/))
 * [Ying Yu]() (PhD Student, co-supervised with [Dr. Fei Teng*](https://profiles.imperial.ac.uk/f.teng))
 * [Keran Zheng](https://uk.linkedin.com/in/keran-zheng-1342131ba) (PhD Student, co-supervised with [Prof. Christos Bouganis*](https://profiles.imperial.ac.uk/f.teng))
+* [Tony Liu](https://uk.linkedin.com/in/tony-liu-000203332) (PhD Student)
 
 \* indicates the primary supervisor, if not indicated, Aaron Zhao is the primary supervisor.
 
