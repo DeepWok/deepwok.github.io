@@ -57,6 +57,11 @@ Feel free to contact a.zhao@imperial.ac.uk if you would like to do a project wit
 
 ## Year 2025
 
+Mixture of Weight-shared Heterogeneous Group Attention Experts for Dynamic Token-wise KV Optimization
+G Song, D Liao, Y Zhao, K Ye, C Xu, X Gao
+The 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025)
+
+
 Refining Salience-Aware Sparse Fine-Tuning Strategies for Language Models;
 X Liu, A Thomas, C Zhang, J Cheng, Y Zhao, X Gao;
 The 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025)
