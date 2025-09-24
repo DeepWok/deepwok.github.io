@@ -57,6 +57,11 @@ Feel free to contact a.zhao@imperial.ac.uk if you would like to do a project wit
 
 ## Year 2025
 
+Omni-DNA: A Unified Genomic Foundation Model for Cross-Modal and Multi-Task Learning
+Z Li, V Subasri, Y Shen, D Li, Y Zhao, GB Stan, C Shan
+The Thirty-nine Conference on Neural Information Processing Systems (NeurIPS 2025)
+
+
 Mixture of Weight-shared Heterogeneous Group Attention Experts for Dynamic Token-wise KV Optimization
 G Song, D Liao, Y Zhao, K Ye, C Xu, X Gao
 The 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025)
